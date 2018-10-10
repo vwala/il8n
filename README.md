@@ -20,7 +20,7 @@ Developers only (or advanced users)
 1. https://git-scm.com/downloads
 2. Open a command line window 
 3. `git clone https://github.com/vwala/il8n.git`
-4. Edit the langague files (*.json extension)
+4. Edit the langauge files (*.json extension)
 
 # Publish your changes
 
