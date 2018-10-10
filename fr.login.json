@@ -2,9 +2,9 @@
   "Your new password has been sent to your email": "",
   "Email": "",
   "Password": "",
-  "Login": "",
-  "Forgot your password?": "",
-  "authenticating": "",
+  "Login": "Anmeldung",
+  "Forgot your password?": "Haben Sie Ihr Passwort vergessen?",
+  "authenticating": "authentifizieren",
   "password reset": "",
   "Reset": "",
   "resetting": ""
