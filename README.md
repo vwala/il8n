@@ -32,7 +32,7 @@ Usage
 
 
 
-Git cli users only
+Developers only (or advanced users)
 --------
 
 # Download and edit language files
