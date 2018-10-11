@@ -26,4 +26,6 @@ Developers only (or advanced users)
 
 **Remember to add a valid comment**
 
-`git add * && git commit -m "type your comment here" && git push`
+`
+git add * && git commit -m "type your comment here" && git push
+`
