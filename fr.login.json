@@ -1,11 +1,11 @@
 {
-    "Your new password has been sent to your email": "Votre nouveau mot de passe vient d'être envoyé à votre adresse email",
-    "Email": "Email",
-    "Password": "Mot de passe",
-    "Login": "S'identifier",
-    "Forgot your password?": "Mot de passe oublié ?",
-    "authenticating": "authentifiant",
-    "password reset": "réinitialiser le mot de passe",
-    "Reset": "Réinitialiser",
-    "resetting": "réinitialisation"
+  "Your new password has been sent to your email": "Votre nouveau mot de passe vient d'être envoyé à votre adresse email",
+  "Email": "Email",
+  "Password": "Mot de passe",
+  "Login": "S'identifier",
+  "Forgot your password?": "Mot de passe oublié ?",
+  "authenticating": "authentifiant",
+  "password reset": "réinitialiser le mot de passe",
+  "Reset": "Réinitialiser",
+  "resetting": "réinitialisation"
 }
