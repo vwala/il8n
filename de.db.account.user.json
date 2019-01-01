@@ -1,0 +1,21 @@
+{
+  "User account": "Benutzerkonto",
+  "Status": "Status",
+  "Name": "Name",
+  "First Name": "Vorname",
+  "Please enter your name. Only letters are valid": "Bitte geben Sie Ihren Namen ein. Nur Buchstaben sind gültig",
+  "Last Name": "Nachname",
+  "Email": "Email",
+  "Enter your new email": "Geben Sie Ihre neue E-Mail-Adresse ein",
+  "Confirm Email": "Bestätigungs-E-Mail",
+  "Re-enter your new email": "Geben Sie Ihre neue E-Mail erneut ein",
+  "Password": "Passwort",
+  "Enter a new password": "Geben Sie ein neues Kennwort ein",
+  "Confirm Password": "Passwort bestätigen",
+  "Re-enter your new password": "Geben Sie Ihr neues Passwort erneut ein",
+  "Language (beta)": "Sprache (Beta)",
+  "We are progressively adding multi-language support throughout our platform": "Wir erweitern unsere Plattform zunehmend um die Unterstützung mehrerer Sprachen",
+  "Delete account?": "Konto löschen?",
+  "Delete": "Löschen",
+  "Save": "sparen"
+}

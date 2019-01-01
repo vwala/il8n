@@ -1,0 +1,21 @@
+{
+  "User account": "用户帐号",
+  "Status": "状态",
+  "Name": "名称",
+  "First Name": "名字",
+  "Please enter your name. Only letters are valid": "请输入你的名字。只有字母有效",
+  "Last Name": "姓",
+  "Email": "电子邮件",
+  "Enter your new email": "输入您的新电子邮件",
+  "Confirm Email": "确认邮件",
+  "Re-enter your new email": "重新输入新的电子邮件",
+  "Password": "密码",
+  "Enter a new password": "输入新的密码",
+  "Confirm Password": "确认密码",
+  "Re-enter your new password": "重新输入新密码",
+  "Language (beta)": "语言（测试版）",
+  "We are progressively adding multi-language support throughout our platform": "我们正逐步在整个平台上添加多语言支持",
+  "Delete account?": "删除帐户？",
+  "Delete": "删除",
+  "Save": "保存"
+}
