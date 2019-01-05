@@ -1,0 +1,12 @@
+{
+  "Account": "Conta",
+  "Status": "Status",
+  "Profile": "Perfil",
+  "Followers": "Seguidores",
+  "Posts": "Postagens",
+  "Number of posts within the last 30 days": "Número de postagens nos últimos 30 dias",
+  "Avg. Reactions": "Média Reações",
+  "Average number of reactions per post within the last 30 days. A reaction is a like or emoji": "Número médio de reações por postagem nos últimos 30 dias. Uma reação é um like ou emoji",
+  "Avg. Comments": "Média Comentários",
+  "Average number of comments per post within the last 30 days": "Número médio de comentários por postagem nos últimos 30 dias"
+}

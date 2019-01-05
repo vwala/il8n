@@ -1,0 +1,16 @@
+{
+  "Name": "名称",
+  "Email": "电子邮件",
+  "Status": "状态",
+  "Your account is pending our approval. This may take up to 48 hours.": "您的帐户正在等待我们的批准。这可能需要长达48小时。",
+  "Group": "组",
+  "Details": "细节",
+  "Influencer": "影响",
+  "Performance": "性能",
+  "Leads": "信息",
+  "Orders": "命令",
+  "Revenue": "收入",
+  "Commission": "佣金",
+  "Earned": "挣",
+  "Owed": "欠"
+}

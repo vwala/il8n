@@ -1,0 +1,23 @@
+{
+  "Order": "Ordre",
+  "Id": "Id",
+  "Order Status": "Statut de la commande",
+  "Fulfillment Status": "État de réalisation",
+  "Created At": "Créé à",
+  "Total": "Total",
+  "Products": "Des produits",
+  "Customer": "Client",
+  "Influencer": "Influencer",
+  "Unknown": "Inconnu",
+  "Commission": "Commission",
+  "Referral": "Référence",
+  "Status": "Statut",
+  "Reason": "Raison",
+  "Transaction Id": "Identifiant de transaction",
+  "Group Id": "Identifiant de groupe",
+  "Type": "Type",
+  "Paid Date": "La date de paiement",
+  "Amount": "Montant",
+  "Owed": "Dû",
+  "Paid": "Payé"
+}

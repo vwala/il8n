@@ -1,0 +1,12 @@
+{
+  "Account": "帐户",
+  "Status": "状态",
+  "Profile": "轮廓",
+  "Followers": "关注",
+  "Posts": "帖子",
+  "Number of posts within the last 30 days": "过去30天内的帖子数量",
+  "Avg. Reactions": "平均。反应",
+  "Average number of reactions per post within the last 30 days. A reaction is a like or emoji": "过去30天内每个帖子的平均反应次数。反应就像是表情符号或表情符号",
+  "Avg. Comments": "平均。评论",
+  "Average number of comments per post within the last 30 days": "过去30天内每篇文章的平均评论数"
+}

@@ -1,0 +1,18 @@
+{
+  "Account Settings": "Paramètres du compte",
+  "Store Settings": "Paramètres du magasin",
+  "Billing Plan": "Plan de facturation",
+  "My Bills": "Mes factures",
+  "Payment Setup": "Configuration du paiement",
+  "My Account": "Mon compte",
+  "Payment setup": "Configuration du paiement",
+  "Important": "Important",
+  "will pay you using PayPal (unless otherwise notified). PayPal payments will be made to your vwa.la account's email address. Your account email is presently": "vous paiera avec PayPal (sauf indication contraire). Les paiements PayPal seront effectués sur l'adresse e-mail de votre compte vwa.la. L'email de votre compte est actuellement",
+  "You must ensure that this email is the same as your PayPal account, or that this email is added as a secondary email address to your existing PayPal account. You can change your email in": "Vous devez vous assurer que cet email est identique à votre compte PayPal ou qu'il est ajouté en tant qu'adresse e-mail secondaire à votre compte PayPal existant. Vous pouvez changer votre email en",
+  "my account > account settings": "mon compte> paramètres du compte",
+  "Sales commission payments will only be paid to you for fulfilled, non-personal referral orders that were not cancelled or refunded. Furthermore, payments will not be deposited into your account until {user.MinOrderCommissionAge} days from the fulfilled order date. This is to avoid issues in the event of order changes / cancellations or credit card fraud": "Les paiements de commission de vente ne vous seront versés que pour les commandes de parrainage non personnelles exécutées qui n'ont pas été annulées ni remboursées. De plus, les paiements ne seront déposés sur votre compte que le {user.MinOrderCommissionAge} jours à compter de la date de la commande. Cela vous évitera des problèmes en cas de modification / annulation de commande ou de fraude par carte de crédit",
+  "Need more info?": "Besoin de plus d'informations?",
+  "Please read our": "S'il vous plaît lire notre",
+  "how and when will I be paid?": "comment et quand serai-je payé?",
+  "guide": "guider"
+}

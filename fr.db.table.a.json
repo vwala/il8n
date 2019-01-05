@@ -1,0 +1,16 @@
+{
+  "Name": "prénom",
+  "Email": "Email",
+  "Status": "Statut",
+  "Your account is pending our approval. This may take up to 48 hours.": "Votre compte est en attente de notre approbation. Cela peut prendre jusqu'à 48 heures.",
+  "Group": "Groupe",
+  "Details": "Détails",
+  "Influencer": "Influencer",
+  "Performance": "Performance",
+  "Leads": "Pistes",
+  "Orders": "Ordres",
+  "Revenue": "Revenu",
+  "Commission": "Commission",
+  "Earned": "Gagné",
+  "Owed": "Dû"
+}

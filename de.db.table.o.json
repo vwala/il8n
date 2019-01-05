@@ -1,0 +1,23 @@
+{
+  "Order": "Auftrag",
+  "Id": "Ich würde",
+  "Order Status": "Bestellstatus",
+  "Fulfillment Status": "Erfüllungsstatus",
+  "Created At": "Hergestellt in",
+  "Total": "Gesamt",
+  "Products": "Produkte",
+  "Customer": "Kunde",
+  "Influencer": "Einfluss",
+  "Unknown": "unbekannte",
+  "Commission": "Kommission",
+  "Referral": "Verweisung",
+  "Status": "Status",
+  "Reason": "Grund",
+  "Transaction Id": "Transaktions-ID",
+  "Group Id": "Gruppen-ID",
+  "Type": "Art",
+  "Paid Date": "Bezahlter Termin",
+  "Amount": "Menge",
+  "Owed": "Geschuldet",
+  "Paid": "Bezahlt"
+}

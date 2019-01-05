@@ -1,0 +1,23 @@
+{
+  "Order": "Orden",
+  "Id": "Carné de identidad",
+  "Order Status": "Estado del pedido",
+  "Fulfillment Status": "Estado de cumplimiento",
+  "Created At": "Creado en",
+  "Total": "Total",
+  "Products": "Productos",
+  "Customer": "Cliente",
+  "Influencer": "influencia",
+  "Unknown": "Desconocido",
+  "Commission": "Comisión",
+  "Referral": "Remisión",
+  "Status": "Estado",
+  "Reason": "Razón",
+  "Transaction Id": "ID de transacción",
+  "Group Id": "Identificación del grupo",
+  "Type": "Tipo",
+  "Paid Date": "Fecha de pago",
+  "Amount": "Cantidad",
+  "Owed": "Debido",
+  "Paid": "Pagado"
+}
