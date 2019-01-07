@@ -1,6 +1,7 @@
 {
   "Name": "Nome",
   "Email": "O email",
+  "Location": "Localização",
   "Status": "Status",
   "Your account is pending our approval. This may take up to 48 hours.": "Sua conta está aguardando nossa aprovação. Isso pode levar até 48 horas.",
   "Group": "Grupo",
