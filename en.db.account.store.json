@@ -77,10 +77,12 @@
   "From name": "",
   "This is the name of the sender that will be used to send your email": "",
   "Mailchimp (beta)": "",
-  "Sync your influencer data to a mailchimp list": "",
+  "Sync your influencer data to a mailing list": "",
   "Enable?": "",
   "You must provide an API key. See Mailchimp's documentation for info": "",
   "Sync": "",
+  "Klaviyo (beta)": "",
+  "You must provide an API key. See Klaviyo's documentation for info": "",
   "Changes may take up to 5 minutes before taking effect": "",
   "Save": ""
 }
