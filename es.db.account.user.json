@@ -13,9 +13,9 @@
   "Enter a new password": "Introduzca una nueva contraseña",
   "Confirm Password": "Confirmar contraseña",
   "Re-enter your new password": "Vuelve a ingresar tu nueva contraseña",
-  "Language (beta)": "Idioma (beta)",
-  "We are progressively adding multi-language support throughout our platform": "Estamos agregando progresivamente soporte multi-idioma a través de nuestra plataforma.",
   "Delete account?": "¿Borrar cuenta?",
   "Delete": "Borrar",
-  "Save": "Salvar"
+  "Save": "Salvar",
+  "Language (beta)": "Idioma (beta)",
+  "We are progressively adding multi-language support throughout our platform": "Estamos agregando progresivamente soporte multi-idioma a través de nuestra plataforma."
 }
