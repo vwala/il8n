@@ -1,5 +1,16 @@
 {
   "Use this form to define the promotion policy of your store. Your promotion policy allows you to set commission rules specific to each of your influencer groups. Groups are a way for you to segment your influencers and reward them differently. You can create groups and; assign influencers to specific groups using the <strong>influencers</strong> page in the menu. When an influencer signs up, they are automatically assigned to the default group": "使用此表单定义商店的促销政策。您的促销政策允许您设置特定于每个影响者组的佣金规则。群组是一种让您对影响者进行细分并以不同方式奖励他们的方式。你可以创建组和;使用菜单中的<strong>influencers</strong>页面将影响者分配给特定的组。当影响者注册时，它们会自动分配到默认组",
   "sales commision on all orders they create": "他们创造的所有订单的销售佣金",
-  "sales commision on orders that your leads create": "对您的潜在客户创建的订单进行销售委托"
+  "sales commision on orders that your leads create": "对您的潜在客户创建的订单进行销售委托",
+  "Influencers who are members of the": "成为影响者的影响者",
+  "group will earn": "小组将获得",
+  "sales commission on all orders they create": "他们创建的所有订单的销售佣金",
+  "Customers who use the influencer's code when making an order will receive a": "在订购时使用影响者代码的客户将收到",
+  "The customer will only receive a discount if their order total is": "如果订单总额为，则客户只能获得折扣",
+  "You will earn": "你会赚的",
+  "sales commission on orders that your leads create": "根据您的潜在客户创建的订单销售佣金",
+  "Link based commission is only rewarded if an order is created within": "基于链接的佣金仅在其中创建订单时才会获得奖励",
+  "days of your link being clicked": "点击链接的日子",
+  "Customers who use your discount code will receive a": "使用折扣代码的客户将收到",
+  "The customer will only receive a discount if their order total is >=": "如果订单总数> =，则客户只能获得折扣"
 }
