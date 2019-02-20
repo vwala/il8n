@@ -9,7 +9,8 @@ Non-technical users
 
 **Editing a language translation file**
 
-1. Click on any .json file to view it's contents (see below for more info on each file)
+1. Create a github.com account 
+1. Click on any *.json langauge file in the above table to view it's contents. Each file contains translations from English into another language (i.e. de = German, see the section below for a table of contents). 
 2. Click the edit button to start editing (right side menu) ![Click the edit button to start editing](docs/screen-edit-file.png?raw=true "Click the edit button to start editing")
 3. Make your changes to the file. Please do not change the English parts on the left of the colon : character. Only change the parts on the right side and make sure to preserve the "" characters at the start and end of the translation text.
 4. To save your changes, scroll to the bottom of the page and select **Create new branch for this commit...** and then click **propose file change** to submit your edits. Make sure you leave a comment describing your changes ![Click save changes to submit your edits](docs/screen-save-changes.png?raw=true "Click save changes to submit your edits")
