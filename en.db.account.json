@@ -10,7 +10,7 @@
   "will pay you using PayPal (unless otherwise notified). PayPal payments will be made to your vwa.la account's email address. Your account email is presently": "",
   "You must ensure that this email is the same as your PayPal account, or that this email is added as a secondary email address to your existing PayPal account. You can change your email in": "",
   "my account > account settings": "",
-  "Sales commission payments will only be paid to you for fulfilled, non-personal referral orders that were not cancelled or refunded. Furthermore, payments will not be deposited into your account until {user.MinOrderCommissionAge} days from the fulfilled order date. This is to avoid issues in the event of order changes / cancellations or credit card fraud": "",
+  "Sales commission will only be paid to you for fulfilled, non-personal orders that are not cancelled or refunded. Furthermore, payments will not be deposited into your account until at least {0} days from the fulfilled order date. This is to avoid issues in the event of order changes, cancellations or fraud": "",
   "Need more info?": "",
   "Please read our": "",
   "how and when will I be paid?": "",
