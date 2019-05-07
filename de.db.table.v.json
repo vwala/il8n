@@ -7,6 +7,5 @@
   "IP": "IP",
   "Location": "Ort",
   "Date": "Datum",
-  "Order": "Auftrag",
-  "None": "Keiner"
+  "Order": "Auftrag"
 }
