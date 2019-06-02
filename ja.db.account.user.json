@@ -1,0 +1,21 @@
+{
+    "User account": "ユーザーアカウント",
+    "Status": "状態",
+    "Name": "名",
+    "First Name": "ファーストネーム",
+    "Please enter your name. Only letters are valid": "あなたの名前を入力してください。文字だけが有効です",
+    "Last Name": "苗字",
+    "Email": "Eメール",
+    "Enter your new email": "新しいメールアドレスを入力してください",
+    "Confirm Email": "Eメール確認",
+    "Re-enter your new email": "新しいメールアドレスを再入力してください",
+    "Password": "パスワード",
+    "Enter a new password": "新しいパスワードを入力",
+    "Confirm Password": "パスワードを認証する",
+    "Re-enter your new password": "新しいパスワードを再入力してください",
+    "Delete account?": "アカウントを削除する？",
+    "Delete": "削除する",
+    "Save": "保存する",
+    "Language (beta)": "言語（ベータ版）",
+    "We are progressively adding multi-language support throughout our platform": "私達は私達のプラットホームを通して次第に多言語サポートを追加しています"
+}

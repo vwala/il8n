@@ -1,0 +1,18 @@
+{
+    "Account Settings": "アカウント設定",
+    "Store Settings": "ストア設定",
+    "Billing Plan": "請求プラン",
+    "My Bills": "私の請求書",
+    "Payment Setup": "支払い設定",
+    "My Account": "マイアカウント",
+    "Payment setup": "支払い設定",
+    "Important": "重要",
+    "will pay you using PayPal (unless otherwise notified). PayPal payments will be made to your vwa.la account's email address. Your account email is presently": "（他に通知されない限り）PayPalを使ってあなたに支払います。 PayPalによる支払いは、あなたのvwa.laアカウントのEメールアドレスに対して行われます。あなたのアカウントのメールアドレスは現在",
+    "You must ensure that this email is the same as your PayPal account, or that this email is added as a secondary email address to your existing PayPal account. You can change your email in": "このEメールがあなたのPayPalアカウントと同じであること、またはこのEメールがあなたの既存のPayPalアカウントの予備のEメールアドレスとして追加されていることを確認しなければなりません。あなたのメールアドレスを変更することができます",
+    "my account > account settings": "マイアカウント>アカウント設定",
+    "Sales commission will only be paid to you for fulfilled, non-personal orders that are not cancelled or refunded. Furthermore, payments will not be deposited into your account until at least {0} days from the fulfilled order date. This is to avoid issues in the event of order changes, cancellations or fraud": "販売手数料は、キャンセルされたり払い戻されたりしない、満たされた個人的でない注文に対してのみ支払われます。さらに、支払いは注文が完了した日から少なくとも{0}日までアカウントに入金されません。これは、注文の変更、キャンセル、詐欺の際の問題を回避するためです。",
+    "Need more info?": "もっと情報が必要ですか？",
+    "Please read our": "私たちを読んでください",
+    "how and when will I be paid?": "いつ、いつ支払われるのですか。",
+    "guide": "ガイド"
+}

@@ -1,0 +1,17 @@
+{
+    "Name": "이름",
+    "Email": "이메일",
+    "Location": "위치",
+    "Status": "지위",
+    "Your account is pending our approval. This may take up to 48 hours.": "계정이 승인 대기 중입니다. 최대 48 시간이 걸릴 수 있습니다.",
+    "Group": "그룹",
+    "Details": "세부",
+    "Influencer": "영향",
+    "Performance": "공연",
+    "Leads": "리드",
+    "Orders": "명령",
+    "Revenue": "수익",
+    "Commission": "위원회",
+    "Earned": "획득",
+    "Owed": "빚진"
+}
