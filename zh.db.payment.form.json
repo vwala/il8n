@@ -5,7 +5,7 @@
   "Back": "背部",
   "How does it work?": "它是如何工作的？",
   "All payments are made in your store's currency": "所有款项均以您商店的货币支付",
-  "Commission can only be paid on referral orders that have been 1) paid by the customer 2) fulfilled and 3) are at least {vm.paymentForm.cMinOrderAge} day(s) old. This constraint ensures that you don't pay commission on orders that may change due to cancellations, refunds etc. You can override these settings in the `filters` section of the `prepare payment` step": "佣金只能通过以下方式支付：1）由客户支付的2）已履行，3）至少是{vm.paymentForm.cMinOrderAge}天。此约束确保您不会因订单可能因取消，退款等而发生变化而支付佣金。您可以在“准备付款”步骤的“过滤器”部分覆盖这些设置",
+  "Commission can only be paid on referral orders that have been 1) paid by the customer 2) fulfilled and 3) are at least {0} day(s) old. This constraint ensures that you don't pay commission on orders that may change due to cancellations, refunds etc. You can override these settings in the `filters` section of the `prepare payment` step": "佣金只能通过以下方式支付：1）由客户支付的2）已履行且3）至少{0}天。此约束确保您不会因订单可能因取消，退款等而发生变化而支付佣金。您可以在“准备付款”步骤的“过滤器”部分覆盖这些设置",
   "Important": "重要",
   "PayPal limits the maximum number of payment recipients to 6. Therefore we can only batch pay 6 influencers at a time. If this affects your account you should re-use this form until all influencers are paid": "PayPal将最大支付收款人数限制为6.因此，我们一次只能批量支付6名影响者。如果这会影响您的帐户，则应重新使用此表单，直到支付所有有影响力的人为止",
   "Post payment, it may take a few minutes before your data is updated by PayPal. Optionally, you can also re-sync the order status manually using the 're-sync orders' feature on the orders page": "付款后，可能需要几分钟才能通过PayPal更新您的数据。或者，您也可以使用订单页面上的“重新同步订单”功能手动重新同步订单状态",
