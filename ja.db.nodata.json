@@ -1,9 +1,10 @@
 {
-    "orders": "注文",
-    "leads": "リード",
-    "codes": "コード",
-    "influencers": "インフルエンサー",
-    "You have no": "あなたは持っていません",
-    "Invite influencers to join your marketing program by sending them to your": "インフルエンサーにあなたのマーケティングプログラムに参加するように促しましょう。",
-    "To earn income as an influencer, you must share and promote your marketing discount code or link": "インフルエンサーとして収入を得るには、マーケティング割引コードまたはリンクを共有して宣伝する必要があります"
+  "orders": "注文",
+  "leads": "リード",
+  "codes": "コード",
+  "influencers": "インフルエンサー",
+  "payments": "支払い",
+  "You have no": "あなたは持っていません",
+  "Invite influencers to join your marketing program by sending them to your": "インフルエンサーにあなたのマーケティングプログラムに参加するように促しましょう。",
+  "To earn income as an influencer, you must share and promote your marketing discount code or link": "インフルエンサーとして収入を得るには、マーケティング割引コードまたはリンクを共有して宣伝する必要があります"
 }
