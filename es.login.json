@@ -4,7 +4,7 @@
   "Password": "Contraseña",
   "Login": "Iniciar sesión",
   "Forgot your password?": "¿Olvidaste tu contraseña?",
-  "authenticating": "autenticando",
+  "logging in": "iniciar sesión",
   "password reset": "restablecimiento de contraseña",
   "Reset": "Reiniciar",
   "resetting": "restableciendo"
