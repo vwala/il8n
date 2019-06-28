@@ -45,7 +45,7 @@ git add * && git commit -m "type your comment here" && git push
 | de.createA.json          | Influencer signup page      | 
 | de.db.a.home.json        | Influencer homepage         | 
 | de.db.a.json             | Influencer table            | 
-| de.db.table.a.json       |  Influencer table           | 
+| de.db.table.a.json       | Influencer table            | 
 | de.db.ac.json            | Influencer code table       | 
 | de.db.table.ac.json      | Influencer code table       | 
 | de.db.account.json       | My account page             | 
@@ -77,3 +77,7 @@ git add * && git commit -m "type your comment here" && git push
 | es       | Spanish      | 
 
 
+Misc
+----
+
+find . -name '*_old.json' -delete
