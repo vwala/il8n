@@ -24,7 +24,7 @@
     "Only pay influencers who have >= {0} orders with unpaid commission": "지불되지 않은 커미션으로 => {0} 주문한 사람에게만 지불하십시오.",
     "Min unpaid commission ({0})": "최소 미 지불 수수료 ({0})",
     "Minimum order age (days)": "최소 주문 연령 (일)",
-    "By default, we do not allow you to pay commission on orders that are less than {0} days old. This protects you from complications that occur when you've paid commission on an order, but that order is subsequently changed, refunded or found to be fraudulent. We highly recommend that you leave this setting as 30 days. We are not liable for any issues that can occur and we will not provide support": "기본적으로 {0} 일 미만의 주문에 대해서는 수수료를 지불 할 수 없습니다. 이것은 주문에 대한 수수료를 지불했을 때 발생하는 합병증으로부터 당신을 보호하지만 그 주문은 이후에 변경되거나 환불되거나 사기성으로 판명됩니다. 이 설정은 30 일로 두는 것이 좋습니다. 우리는 발생할 수있는 문제에 대해 책임을지지 않으며 지원을 제공하지 않을 것입니다.",
+    "By default, we do not allow you to pay commission on orders that are less than {0} days old. This protects you from complications that occur when you've paid commission on an order, but that order is subsequently changed, refunded or found to be fraudulent. We highly recommend that you leave this setting unchanged. We are not liable for any issues that can occur and we will not provide support": "기본적으로 {0} 일 미만의 주문에 대해서는 수수료를 지불 할 수 없습니다. 이것은 주문에 대한 수수료를 지불했을 때 발생하는 합병증으로부터 당신을 보호하지만 그 주문은 이후에 변경되거나 환불되거나 사기성으로 판명됩니다. 이 설정은 변경하지 않는 것이 좋습니다. 우리는 발생할 수있는 문제에 대해 책임을지지 않으며 지원을 제공하지 않을 것입니다.",
     "Order status": "주문 상태",
     "Only pay commission on paid orders?": "유료 주문에 대해서만 수수료를 지불합니까?",
     "Orders must be paid?": "주문은 지불해야합니까?",
