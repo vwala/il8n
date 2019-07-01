@@ -71,6 +71,7 @@
     "Email": "Eメール",
     "Status": "状態",
     "Amount": "量",
+    "Code": "コード",
     "Group": "グループ",
     "Only pay influencers who belong to this group": "このグループに属するインフルエンサーのみを支払う"
 }

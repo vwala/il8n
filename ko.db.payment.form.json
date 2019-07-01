@@ -71,6 +71,7 @@
     "Email": "이메일",
     "Status": "지위",
     "Amount": "양",
+    "Code": "암호",
     "Group": "그룹",
     "Only pay influencers who belong to this group": "이 그룹에 속한 영향력있는 사람에게만 지불하십시오."
 }
