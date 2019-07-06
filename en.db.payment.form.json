@@ -55,6 +55,7 @@
   "Payment amount": "",
   "Approval required": "",
   "You must approve the PayPal transaction. We have opened the PayPal transaction in a new window (please ensure your browser allows this page to open). You must go to the new window and approve the payment": "",
+  "Re-open approval window": "",
   "Cancel payment": "",
   "Ok": "",
   "Opening PayPal": "",

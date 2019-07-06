@@ -55,6 +55,7 @@
     "Payment amount": "결제 금액",
     "Approval required": "승인 필요",
     "You must approve the PayPal transaction. We have opened the PayPal transaction in a new window (please ensure your browser allows this page to open). You must go to the new window and approve the payment": "PayPal 거래를 승인해야합니다. 새 창에서 PayPal 거래를 열었습니다 (브라우저에서이 페이지를 열 수 있도록하십시오). 새 창으로 가서 지불을 승인해야합니다.",
+    "Re-open approval window": "승인 창 다시 열기",
     "Cancel payment": "지불 취소",
     "Ok": "승인",
     "Opening PayPal": "PayPal 열기",

@@ -55,6 +55,7 @@
     "Payment amount": "Montant du paiement",
     "Approval required": "承認が必要",
     "You must approve the PayPal transaction. We have opened the PayPal transaction in a new window (please ensure your browser allows this page to open). You must go to the new window and approve the payment": "Vous devez approuver la transaction PayPal. Nous avons ouvert la transaction PayPal dans une nouvelle fenêtre (assurez-vous que votre navigateur autorise l'ouverture de cette page). Vous devez aller à la nouvelle fenêtre et approuver le paiement",
+    "Re-open approval window": "Réouvrir la fenêtre d'approbation",
     "Cancel payment": "支払いをキャンセル",
     "Ok": "OK",
     "Opening PayPal": "PayPalを開く",

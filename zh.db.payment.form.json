@@ -55,6 +55,7 @@
     "Payment amount": "支付金额",
     "Approval required": "承認が必要",
     "You must approve the PayPal transaction. We have opened the PayPal transaction in a new window (please ensure your browser allows this page to open). You must go to the new window and approve the payment": "您必须批准PayPal交易。我们在新窗口中打开了PayPal交易（请确保您的浏览器允许此页面打开）。您必须转到新窗口并批准付款",
+    "Re-open approval window": "重新打开批准窗口",
     "Cancel payment": "支払いをキャンセル",
     "Ok": "OK",
     "Opening PayPal": "PayPalを開く",
