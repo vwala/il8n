@@ -1,9 +1,11 @@
 {
   "Log into PayPal and fix your account": "PayPalにログインしてアカウントを修正する",
+  "Your vwa.la email and PayPal email must be the same": "あなたのvwa.la EメールとPayPal Eメールは同じでなければなりません",
   "Your PayPal account is valid": "あなたのPayPalアカウントは有効です",
-  "Your PayPal account setup is incomplete. You must log into your PayPal account and resolve any issues before you can be paid commission": "あなたのPayPalアカウントの設定は不完全です。あなたがPayPalアカウントにログインし、あなたが手数料を支払うことができる前に問題を解決しなければなりません",
+  "To be paid commission, you must log into your PayPal account and fix your PayPal account setup issues": "手数料を支払うには、PayPalアカウントにログインし、PayPalアカウントの設定に関する問題を解決する必要があります。",
+  "To be paid commission, you must create a PayPal account. Your PayPal account and vwa.la account must use the same email address. You can also add your vwa.la email as a secondary email to an existing PayPal account": "手数料を支払うには、PayPalアカウントを作成する必要があります。あなたのPayPalアカウントとvwa.laアカウントは同じEメールアドレスを使わなければなりません。既存のPayPalアカウントの予備のメールとしてvwa.laメールを追加することもできます。",
   "Check": "チェック",
-  "This influencer can not be paid until they resolve their PayPal account issues": "このインフルエンサーは、彼らが彼らのPayPalアカウントの問題を解決するまで支払うことができません",
+  "This influencer can not be paid by PayPal until they resolve their PayPal account issues": "このインフルエンサーは、PayPalアカウントの問題を解決するまで、PayPalから支払いを受けることはできません。",
   "Overview": "概要",
   "Marketing accounts": "マーケティングアカウント",
   "When you link a social media account with us, we use the following information": "あなたが私たちとソーシャルメディアアカウントをリンクするとき、私たちは以下の情報を使います",

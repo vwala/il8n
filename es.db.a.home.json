@@ -1,9 +1,11 @@
 {
   "Log into PayPal and fix your account": "Inicie sesión en PayPal y arregle su cuenta",
+  "Your vwa.la email and PayPal email must be the same": "Tu correo electrónico vwa.la y el correo electrónico de PayPal deben ser los mismos",
   "Your PayPal account is valid": "Tu cuenta de PayPal es válida",
-  "Your PayPal account setup is incomplete. You must log into your PayPal account and resolve any issues before you can be paid commission": "La configuración de su cuenta de PayPal está incompleta. Debe iniciar sesión en su cuenta de PayPal y resolver cualquier problema antes de que se le pueda pagar una comisión",
+  "To be paid commission, you must log into your PayPal account and fix your PayPal account setup issues": "Para pagar una comisión, debe iniciar sesión en su cuenta de PayPal y solucionar los problemas de configuración de su cuenta de PayPal",
+  "To be paid commission, you must create a PayPal account. Your PayPal account and vwa.la account must use the same email address. You can also add your vwa.la email as a secondary email to an existing PayPal account": "Para ser pagado comisión, debe crear una cuenta de PayPal. Su cuenta de PayPal y vwa.la deben usar la misma dirección de correo electrónico. También puede agregar su correo electrónico vwa.la como un correo electrónico secundario a una cuenta de PayPal existente",
   "Check": "Comprobar",
-  "This influencer can not be paid until they resolve their PayPal account issues": "Este influencer no puede ser pagado hasta que resuelvan sus problemas de cuenta de PayPal",
+  "This influencer can not be paid by PayPal until they resolve their PayPal account issues": "PayPal no puede pagar a esta persona influyente hasta que resuelvan sus problemas de cuenta de PayPal",
   "Overview": "Visión general",
   "Marketing accounts": "Cuentas de marketing",
   "When you link a social media account with us, we use the following information": "Cuando vincula una cuenta de redes sociales con nosotros, utilizamos la siguiente información",
