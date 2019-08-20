@@ -15,5 +15,8 @@
   "Revenue": "Revenu",
   "Commission": "Commission",
   "Earned": "Gagné",
-  "Owed": "Dû"
+  "Owed": "Dû",
+  "Payable": "Payable",
+  "Commission can only be paid for orders that that are paid, fulfilled and at least {0} days old": "La commission ne peut être payée que pour les commandes payées, exécutées et datant d’au moins {0} jours",
+  "Paid": "Payé"
 }

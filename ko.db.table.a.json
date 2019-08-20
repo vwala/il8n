@@ -15,5 +15,8 @@
   "Revenue": "수익",
   "Commission": "위원회",
   "Earned": "획득",
-  "Owed": "빚진"
+  "Owed": "빚진",
+  "Payable": "지불 가능",
+  "Commission can only be paid for orders that that are paid, fulfilled and at least {0} days old": "최소 {0} 일 이전에 지불, 이행 및 이행 된 주문에 대해서만 수수료를 지불 할 수 있습니다.",
+  "Paid": "유료"
 }

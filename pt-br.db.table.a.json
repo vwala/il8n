@@ -15,5 +15,8 @@
   "Revenue": "receita",
   "Commission": "Comissão",
   "Earned": "Ganhou",
-  "Owed": "Devido"
+  "Owed": "Devido",
+  "Payable": "A pagar",
+  "Commission can only be paid for orders that that are paid, fulfilled and at least {0} days old": "Comissão só pode ser paga por ordens que são pagas, cumpridas e pelo menos {0} dias de idade",
+  "Paid": "Pago"
 }

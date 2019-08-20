@@ -15,5 +15,8 @@
   "Revenue": "收入",
   "Commission": "佣金",
   "Earned": "挣",
-  "Owed": "欠"
+  "Owed": "欠",
+  "Payable": "应付帐款",
+  "Commission can only be paid for orders that that are paid, fulfilled and at least {0} days old": "只有支付，履行且至少{0}天的订单才能支付佣金",
+  "Paid": "付费"
 }
