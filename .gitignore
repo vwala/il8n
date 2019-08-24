@@ -5,3 +5,4 @@ lib
 config
 temp
 src
+*_old.json
