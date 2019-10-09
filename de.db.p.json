@@ -4,7 +4,6 @@
   "Use this form to define the promotion policy of your store. Your promotion policy allows you to set commission rules specific to each of your influencer groups. Groups are a way for you to segment your influencers and reward them differently. You can create groups and; assign influencers to specific groups using the influencers page in the menu. When an influencer signs up, they are automatically assigned to the default group": "Verwenden Sie dieses Formular, um die Promotion-Richtlinien für Ihr Geschäft zu definieren. Ihre Beförderungsrichtlinie ermöglicht es Ihnen, Provisionsregeln festzulegen, die für jede Ihrer Influencer-Gruppen spezifisch sind. Gruppen sind eine Möglichkeit für Sie, Ihre Influencer zu segmentieren und unterschiedlich zu belohnen. Sie können Gruppen erstellen und; Zuweisen von Influencers zu bestimmten Gruppen mithilfe der Influencer-Seite im Menü. Wenn sich ein Influencer anmeldet, werden sie automatisch der Standardgruppe zugewiesen",
   "Learn more": "Mehr erfahren",
   "Save": "sparen",
-  "Create": "Erstellen",
   "This is the promotion policy for": "Dies ist die Promotion-Richtlinie für",
   "It summarises the sales commission that you will earn for each referral order. Please read this policy carefully": "Es fasst die Verkaufsprovision zusammen, die Sie für jeden Empfehlungsauftrag erhalten. Bitte lesen Sie diese Richtlinien sorgfältig durch",
   "Group specific rules": "Gruppenspezifische Regeln",
@@ -75,5 +74,7 @@
   "Fixed discount": "Fester Rabatt",
   "Discount": "Rabatt",
   "Applies to discount codes only. This is the % of an order that the customer will receive as a discount. I.e. If their order is $100 (excluding shipping and tax) and their discount is 5%, they will receive $5 off their order total": "Gilt nur für Rabattcodes. Dies ist der Prozentsatz einer Bestellung, die der Kunde als Rabatt erhält. Das heißt Wenn ihre Bestellung 100 US-Dollar (ohne Versand und Steuern) beträgt und der Rabatt 5% beträgt, erhalten sie 5 US-Dollar auf ihre Gesamtsumme",
-  "Applies to discount codes only. This is a fixed amount discount that the customer will receive as a discount for each order they create using an influencer's code": "Gilt nur für Rabattcodes. Hierbei handelt es sich um einen Festbetragsrabatt, den der Kunde für jede Bestellung, die er mit einem Influencer-Code erstellt, als Rabatt erhält"
+  "Applies to discount codes only. This is a fixed amount discount that the customer will receive as a discount for each order they create using an influencer's code": "Gilt nur für Rabattcodes. Hierbei handelt es sich um einen Festbetragsrabatt, den der Kunde für jede Bestellung, die er mit einem Influencer-Code erstellt, als Rabatt erhält",
+  "Limit this rule to only specific products? E.g The customer will only receive a discount when purchasing these products": "Diese Regel auf bestimmte Produkte beschränken? Zum Beispiel erhält der Kunde nur beim Kauf dieser Produkte einen Rabatt",
+  "Limit this rule to only products within a collection? E.g. The customer will only receive a discount when purchasing these products": "Diese Regel auf Produkte innerhalb einer Kollektion beschränken? Z.B. Der Kunde erhält nur beim Kauf dieser Produkte einen Rabatt"
 }

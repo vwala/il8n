@@ -4,7 +4,6 @@
   "Use this form to define the promotion policy of your store. Your promotion policy allows you to set commission rules specific to each of your influencer groups. Groups are a way for you to segment your influencers and reward them differently. You can create groups and; assign influencers to specific groups using the influencers page in the menu. When an influencer signs up, they are automatically assigned to the default group": "使用此表单定义商店的促销政策。您的促销政策允许您设置特定于每个影响者组的佣金规则。群组是一种让您对影响者进行细分并以不同方式奖励他们的方式。你可以创建组和;使用菜单中的influencers页面将影响者分配给特定的组。当影响者注册时，它们会自动分配到默认组",
   "Learn more": "学到更多",
   "Save": "保存",
-  "Create": "创建",
   "This is the promotion policy for": "这是促销政策",
   "It summarises the sales commission that you will earn for each referral order. Please read this policy carefully": "它总结了您将为每个推荐订单赚取的销售佣金。请仔细阅读本政策",
   "Group specific rules": "组特定规则",
@@ -75,5 +74,7 @@
   "Fixed discount": "固定折扣",
   "Discount": "折扣",
   "Applies to discount codes only. This is the % of an order that the customer will receive as a discount. I.e. If their order is $100 (excluding shipping and tax) and their discount is 5%, they will receive $5 off their order total": "仅适用于折扣代码。这是客户作为折扣收到的订单的百分比。即如果他们的订单是100美元（不含运费和税金），他们的折扣是5％，他们将获得总订单减5美元",
-  "Applies to discount codes only. This is a fixed amount discount that the customer will receive as a discount for each order they create using an influencer's code": "仅适用于折扣代码。这是客户将使用影响者代码创建的每个订单的折扣收取的固定金额折扣"
+  "Applies to discount codes only. This is a fixed amount discount that the customer will receive as a discount for each order they create using an influencer's code": "仅适用于折扣代码。这是客户将使用影响者代码创建的每个订单的折扣收取的固定金额折扣",
+  "Limit this rule to only specific products? E.g The customer will only receive a discount when purchasing these products": "将此规则限制为仅特定产品吗？例如，客户只会在购买这些产品时获得折扣",
+  "Limit this rule to only products within a collection? E.g. The customer will only receive a discount when purchasing these products": "将此规则限制为仅包含集合中的产品？例如。客户仅会在购买这些产品时获得折扣"
 }

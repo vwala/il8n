@@ -4,7 +4,6 @@
   "Use this form to define the promotion policy of your store. Your promotion policy allows you to set commission rules specific to each of your influencer groups. Groups are a way for you to segment your influencers and reward them differently. You can create groups and; assign influencers to specific groups using the influencers page in the menu. When an influencer signs up, they are automatically assigned to the default group": "이 양식을 사용하여 상점의 판촉 정책을 정의하십시오. 프로모션 정책을 통해 각 영향 요인 그룹별로 커미션 규칙을 설정할 수 있습니다. 그룹은 영향력있는 사람을 분류하여 다르게 보상 할 수있는 방법입니다. 당신은 그룹을 만들 수 있습니다; 영향력있는 사람을 메뉴의 영향 요인 페이지를 사용하여 특정 그룹에 할당하십시오. 영향 요인이 등록되면 자동으로 기본 그룹에 할당됩니다.",
   "Learn more": "더 알아보기",
   "Save": "구하다",
-  "Create": "몹시 떠들어 대다",
   "This is the promotion policy for": "이것은 다음에 대한 홍보 정책입니다.",
   "It summarises the sales commission that you will earn for each referral order. Please read this policy carefully": "각 추천 주문에 대해 얻게 될 판매 수수료를 요약합니다. 이 정책을주의 깊게 읽으십시오.",
   "Group specific rules": "그룹 별 규칙",
@@ -75,5 +74,7 @@
   "Fixed discount": "고정 할인",
   "Discount": "할인",
   "Applies to discount codes only. This is the % of an order that the customer will receive as a discount. I.e. If their order is $100 (excluding shipping and tax) and their discount is 5%, they will receive $5 off their order total": "할인 코드에만 적용됩니다. 고객이 할인으로 받게되는 주문의 비율입니다. 나. 주문이 $ 100 (배송 및 세금 제외)이고 할인이 5 % 인 경우 주문 총액에서 5 달러를받습니다.",
-  "Applies to discount codes only. This is a fixed amount discount that the customer will receive as a discount for each order they create using an influencer's code": "할인 코드에만 적용됩니다. 이것은 고객이 영향력 자의 코드를 사용하여 작성한 각 주문에 대해 할인으로 제공되는 고정 금액 할인입니다"
+  "Applies to discount codes only. This is a fixed amount discount that the customer will receive as a discount for each order they create using an influencer's code": "할인 코드에만 적용됩니다. 이것은 고객이 영향력 자의 코드를 사용하여 작성한 각 주문에 대해 할인으로 제공되는 고정 금액 할인입니다",
+  "Limit this rule to only specific products? E.g The customer will only receive a discount when purchasing these products": "이 규칙을 특정 제품으로 만 제한 하시겠습니까? 예 : 고객은이 제품을 구매할 때만 할인을받습니다",
+  "Limit this rule to only products within a collection? E.g. The customer will only receive a discount when purchasing these products": "이 규칙을 컬렉션 내의 제품으로 만 제한 하시겠습니까? 예 : 고객은 이러한 제품을 구매할 때만 할인을받습니다"
 }
