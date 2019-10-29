@@ -74,7 +74,5 @@
   "Fixed discount": "",
   "Discount": "",
   "Applies to discount codes only. This is the % of an order that the customer will receive as a discount. I.e. If their order is $100 (excluding shipping and tax) and their discount is 5%, they will receive $5 off their order total": "",
-  "Applies to discount codes only. This is a fixed amount discount that the customer will receive as a discount for each order they create using an influencer's code": "",
-  "Limit this rule to only specific products? E.g The customer will only receive a discount when purchasing these products": "",
-  "Limit this rule to only products within a collection? E.g. The customer will only receive a discount when purchasing these products": ""
+  "Applies to discount codes only. This is a fixed amount discount that the customer will receive as a discount for each order they create using an influencer's code": ""
 }

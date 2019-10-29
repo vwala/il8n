@@ -74,7 +74,5 @@
   "Fixed discount": "固定折扣",
   "Discount": "折扣",
   "Applies to discount codes only. This is the % of an order that the customer will receive as a discount. I.e. If their order is $100 (excluding shipping and tax) and their discount is 5%, they will receive $5 off their order total": "仅适用于折扣代码。这是客户作为折扣收到的订单的百分比。即如果他们的订单是100美元（不含运费和税金），他们的折扣是5％，他们将获得总订单减5美元",
-  "Applies to discount codes only. This is a fixed amount discount that the customer will receive as a discount for each order they create using an influencer's code": "仅适用于折扣代码。这是客户将使用影响者代码创建的每个订单的折扣收取的固定金额折扣",
-  "Limit this rule to only specific products? E.g The customer will only receive a discount when purchasing these products": "将此规则限制为仅特定产品吗？例如，客户只会在购买这些产品时获得折扣",
-  "Limit this rule to only products within a collection? E.g. The customer will only receive a discount when purchasing these products": "将此规则限制为仅包含集合中的产品？例如。客户仅会在购买这些产品时获得折扣"
+  "Applies to discount codes only. This is a fixed amount discount that the customer will receive as a discount for each order they create using an influencer's code": "仅适用于折扣代码。这是客户将使用影响者代码创建的每个订单的折扣收取的固定金额折扣"
 }

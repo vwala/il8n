@@ -74,7 +74,5 @@
   "Fixed discount": "固定割引",
   "Discount": "ディスカウント",
   "Applies to discount codes only. This is the % of an order that the customer will receive as a discount. I.e. If their order is $100 (excluding shipping and tax) and their discount is 5%, they will receive $5 off their order total": "割引コードにのみ適用されます。これは、顧客が割引として受け取る注文の割合です。すなわち注文が100ドル（配送料と税金を除く）で、割引が5％の場合、注文の合計金額から5ドルを受け取ります。",
-  "Applies to discount codes only. This is a fixed amount discount that the customer will receive as a discount for each order they create using an influencer's code": "割引コードにのみ適用されます。これは、インフルエンサーのコードを使用して作成した各注文の割引として顧客が受け取る固定額の割引です。",
-  "Limit this rule to only specific products? E.g The customer will only receive a discount when purchasing these products": "このルールを特定の製品のみに制限しますか？たとえば、顧客はこれらの製品を購入するときにのみ割引を受けます",
-  "Limit this rule to only products within a collection? E.g. The customer will only receive a discount when purchasing these products": "このルールをコレクション内の製品のみに制限しますか？例えば。顧客は、これらの製品を購入するときにのみ割引を受けます"
+  "Applies to discount codes only. This is a fixed amount discount that the customer will receive as a discount for each order they create using an influencer's code": "割引コードにのみ適用されます。これは、インフルエンサーのコードを使用して作成した各注文の割引として顧客が受け取る固定額の割引です。"
 }

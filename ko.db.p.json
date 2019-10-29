@@ -74,7 +74,5 @@
   "Fixed discount": "고정 할인",
   "Discount": "할인",
   "Applies to discount codes only. This is the % of an order that the customer will receive as a discount. I.e. If their order is $100 (excluding shipping and tax) and their discount is 5%, they will receive $5 off their order total": "할인 코드에만 적용됩니다. 고객이 할인으로 받게되는 주문의 비율입니다. 나. 주문이 $ 100 (배송 및 세금 제외)이고 할인이 5 % 인 경우 주문 총액에서 5 달러를받습니다.",
-  "Applies to discount codes only. This is a fixed amount discount that the customer will receive as a discount for each order they create using an influencer's code": "할인 코드에만 적용됩니다. 이것은 고객이 영향력 자의 코드를 사용하여 작성한 각 주문에 대해 할인으로 제공되는 고정 금액 할인입니다",
-  "Limit this rule to only specific products? E.g The customer will only receive a discount when purchasing these products": "이 규칙을 특정 제품으로 만 제한 하시겠습니까? 예 : 고객은이 제품을 구매할 때만 할인을받습니다",
-  "Limit this rule to only products within a collection? E.g. The customer will only receive a discount when purchasing these products": "이 규칙을 컬렉션 내의 제품으로 만 제한 하시겠습니까? 예 : 고객은 이러한 제품을 구매할 때만 할인을받습니다"
+  "Applies to discount codes only. This is a fixed amount discount that the customer will receive as a discount for each order they create using an influencer's code": "할인 코드에만 적용됩니다. 이것은 고객이 영향력 자의 코드를 사용하여 작성한 각 주문에 대해 할인으로 제공되는 고정 금액 할인입니다"
 }

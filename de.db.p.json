@@ -74,7 +74,5 @@
   "Fixed discount": "Fester Rabatt",
   "Discount": "Rabatt",
   "Applies to discount codes only. This is the % of an order that the customer will receive as a discount. I.e. If their order is $100 (excluding shipping and tax) and their discount is 5%, they will receive $5 off their order total": "Gilt nur für Rabattcodes. Dies ist der Prozentsatz einer Bestellung, die der Kunde als Rabatt erhält. Das heißt Wenn ihre Bestellung 100 US-Dollar (ohne Versand und Steuern) beträgt und der Rabatt 5% beträgt, erhalten sie 5 US-Dollar auf ihre Gesamtsumme",
-  "Applies to discount codes only. This is a fixed amount discount that the customer will receive as a discount for each order they create using an influencer's code": "Gilt nur für Rabattcodes. Hierbei handelt es sich um einen Festbetragsrabatt, den der Kunde für jede Bestellung, die er mit einem Influencer-Code erstellt, als Rabatt erhält",
-  "Limit this rule to only specific products? E.g The customer will only receive a discount when purchasing these products": "Diese Regel auf bestimmte Produkte beschränken? Zum Beispiel erhält der Kunde nur beim Kauf dieser Produkte einen Rabatt",
-  "Limit this rule to only products within a collection? E.g. The customer will only receive a discount when purchasing these products": "Diese Regel auf Produkte innerhalb einer Kollektion beschränken? Z.B. Der Kunde erhält nur beim Kauf dieser Produkte einen Rabatt"
+  "Applies to discount codes only. This is a fixed amount discount that the customer will receive as a discount for each order they create using an influencer's code": "Gilt nur für Rabattcodes. Hierbei handelt es sich um einen Festbetragsrabatt, den der Kunde für jede Bestellung, die er mit einem Influencer-Code erstellt, als Rabatt erhält"
 }
