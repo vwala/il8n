@@ -24,6 +24,7 @@
   "Suggested": "おすすめ",
   "Change group": "グループを変更",
   "Each influencer can be assigned to 1 group. Groups are useful when you want to give different rewards to different influencers. i.e. VIPs. Use this action to change the selected influencer(s) group. You can create/re-name groups in the 'groups' tab. By default, new influencers are assigned to the 'default' group": "各インフルエンサーは1つのグループに割り当てることができます。グループは、異なるインフルエンサーに異なる報酬を与えたいときに便利です。すなわちVIP。選択したインフルエンサーグループを変更するには、この操作を使用します。 'groups'タブでグループを作成/名前変更することができます。デフォルトでは、新しいインフルエンサーは「デフォルト」グループに割り当てられています",
+  "Edit": "編集",
   "Delete": "削除する",
   "You can delete up to": "あなたはまで削除することができます",
   "influencers at a time": "インフルエンサー",

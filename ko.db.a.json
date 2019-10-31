@@ -24,6 +24,7 @@
   "Suggested": "제안 됨",
   "Change group": "그룹 변경",
   "Each influencer can be assigned to 1 group. Groups are useful when you want to give different rewards to different influencers. i.e. VIPs. Use this action to change the selected influencer(s) group. You can create/re-name groups in the 'groups' tab. By default, new influencers are assigned to the 'default' group": "각 영향 요인은 하나의 그룹에 할당 될 수 있습니다. 그룹은 다른 영향 요인에게 다양한 보상을 제공하려는 경우에 유용합니다. 즉 VIP. 선택한 영향 요인 그룹을 변경하려면이 작업을 사용하십시오. '그룹'탭에서 그룹을 만들고 이름을 다시 지정할 수 있습니다. 기본적으로 새로운 영향 요인은 '기본'그룹에 할당됩니다.",
+  "Edit": "편집하다",
   "Delete": "지우다",
   "You can delete up to": "최대까지 삭제할 수 있습니다.",
   "influencers at a time": "한 번에 영향력을 행사하는 사람들",
