@@ -99,7 +99,7 @@
   "Klaviyo": "",
   "You must provide an API key. See Klaviyo's documentation for info": "",
   "Recharge": "",
-  "To enable Recharge - create a Recharge API key (with read access to subscriptions). Then save the key's token and secret into the form below. See Recharge's documentation for info": "",
+  "To enable Recharge - create a Recharge API token (with read access to subscriptions). Then save the token's API key and secret into the form below. See Recharge's documentation for info": "",
   "You must provide an API key": "",
   "API Secret": "",
   "You must provide an API secret": "",

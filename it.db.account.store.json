@@ -99,7 +99,7 @@
     "Klaviyo": "Klvio",
     "You must provide an API key. See Klaviyo's documentation for info": "Devi fornire una chiave API. Consulta la documentazione di Klaviyo per informazioni",
     "Recharge": "Ricaricare",
-    "To enable Recharge - create a Recharge API key (with read access to subscriptions). Then save the key's token and secret into the form below. See Recharge's documentation for info": "Per abilitare Ricarica: crea una chiave API di ricarica (con accesso in lettura agli abbonamenti). Quindi salva il token e il segreto della chiave nel modulo seguente. Consulta la documentazione di Recharge per informazioni",
+    "To enable Recharge - create a Recharge API token (with read access to subscriptions). Then save the token's API key and secret into the form below. See Recharge's documentation for info": "Per abilitare Ricarica: crea un token API di ricarica (con accesso in lettura agli abbonamenti). Quindi salva la chiave API del token e segreta nel modulo sottostante. Consulta la documentazione di Recharge per informazioni",
     "You must provide an API key": "Devi fornire una chiave API",
     "API Secret": "API Secret",
     "You must provide an API secret": "È necessario fornire un segreto API",

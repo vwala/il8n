@@ -99,7 +99,7 @@
     "Klaviyo": "클라비 요",
     "You must provide an API key. See Klaviyo's documentation for info": "API 키를 제공해야합니다. 정보를 보려면 Klaviyo의 설명서를 참조하십시오.",
     "Recharge": "재충전",
-    "To enable Recharge - create a Recharge API key (with read access to subscriptions). Then save the key's token and secret into the form below. See Recharge's documentation for info": "충전을 활성화하려면-구독에 대한 읽기 권한이있는 충전 API 키를 만듭니다. 그런 다음 키의 토큰과 비밀을 아래 양식에 저장하십시오. 자세한 내용은 충전 설명서를 참조하십시오",
+    "To enable Recharge - create a Recharge API token (with read access to subscriptions). Then save the token's API key and secret into the form below. See Recharge's documentation for info": "충전을 활성화하려면-구독에 대한 읽기 권한이있는 충전 API 토큰을 만듭니다. 그런 다음 토큰의 API 키와 비밀을 아래 양식에 저장하십시오. 자세한 내용은 충전 설명서를 참조하십시오",
     "You must provide an API key": "API 키를 제공해야합니다",
     "API Secret": "API 시크릿",
     "You must provide an API secret": "API 시크릿을 제공해야합니다",

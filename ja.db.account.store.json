@@ -99,7 +99,7 @@
     "Klaviyo": "クラビヨ",
     "You must provide an API key. See Klaviyo's documentation for info": "APIキーを入力する必要があります。詳しくはKlaviyoのドキュメントを参照してください。",
     "Recharge": "再充電",
-    "To enable Recharge - create a Recharge API key (with read access to subscriptions). Then save the key's token and secret into the form below. See Recharge's documentation for info": "リチャージを有効にするには-リチャージAPIキーを作成します（サブスクリプションへの読み取りアクセス権付き）。次に、キーのトークンとシークレットを以下のフォームに保存します。詳しくは、Rechargeのドキュメントをご覧ください",
+    "To enable Recharge - create a Recharge API token (with read access to subscriptions). Then save the token's API key and secret into the form below. See Recharge's documentation for info": "リチャージを有効にするには-リチャージAPIトークンを作成します（サブスクリプションへの読み取りアクセス権付き）。次に、トークンのAPIキーとシークレットを以下のフォームに保存します。詳しくは、Rechargeのドキュメントをご覧ください",
     "You must provide an API key": "APIキーを提供する必要があります",
     "API Secret": "APIシークレット",
     "You must provide an API secret": "APIシークレットを提供する必要があります",

@@ -99,7 +99,7 @@
     "Klaviyo": "Klvio",
     "You must provide an API key. See Klaviyo's documentation for info": "您必须提供API密钥。有关信息，请参阅Klaviyo的文档",
     "Recharge": "充值",
-    "To enable Recharge - create a Recharge API key (with read access to subscriptions). Then save the key's token and secret into the form below. See Recharge's documentation for info": "要启用充值-创建充值API密钥（具有对订阅的读取权限）。然后将密钥的令牌和秘密保存到下面的表格中。有关信息，请参阅充值文档。",
+    "To enable Recharge - create a Recharge API token (with read access to subscriptions). Then save the token's API key and secret into the form below. See Recharge's documentation for info": "要启用充值-创建充值API令牌（具有对订阅的读取权限）。然后将令牌的API密钥和机密保存到下面的表单中。有关信息，请参阅充值文档。",
     "You must provide an API key": "您必须提供一个API密钥",
     "API Secret": "API的秘密",
     "You must provide an API secret": "您必须提供API密码",
