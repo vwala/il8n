@@ -48,7 +48,6 @@
   "Can an influencer earn commission from their own personal orders? Default is false, which means our anti-fraud system will block personal orders. You should only enable this during testing": "",
   "Allow personal orders?": "",
   "Customer privacy": "",
-  "Can influencers see their referral customer's name?": "",
   "Allow influencers to see customer names?": "",
   "Coupon site policy": "",
   "If an influencer code is found on a coupon site, what should we do?": "",
