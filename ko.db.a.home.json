@@ -26,7 +26,6 @@
   "Leads (clicks)": "리드 (클릭 수)",
   "Leads (unique)": "리드 (고유)",
   "Referrals": "추천",
-  "Sales": "매상",
   "Conv rate": "전환율",
   "New": "새로운",
   "Returning": "재방송",
@@ -35,6 +34,7 @@
   "Payable": "지불 가능",
   "Paid": "유료",
   "Lead sources": "리드 소스",
+  "Sales": "매상",
   "Sales by customer": "고객 별 판매",
   "Earnings": "수입"
 }

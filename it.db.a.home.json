@@ -26,7 +26,6 @@
   "Leads (clicks)": "Lead (clic)",
   "Leads (unique)": "Lead (unico)",
   "Referrals": "Referenti",
-  "Sales": "I saldi",
   "Conv rate": "Tasso conv",
   "New": "Nuovo",
   "Returning": "ritornando",
@@ -35,6 +34,7 @@
   "Payable": "pagabile",
   "Paid": "Pagato",
   "Lead sources": "Fonti di piombo",
+  "Sales": "I saldi",
   "Sales by customer": "Vendite per cliente",
   "Earnings": "guadagni"
 }

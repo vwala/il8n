@@ -26,7 +26,6 @@
   "Leads (clicks)": "潜在客户（点击）",
   "Leads (unique)": "潜在客户（独特）",
   "Referrals": "介绍人",
-  "Sales": "销售",
   "Conv rate": "转换率",
   "New": "新",
   "Returning": "返回",
@@ -35,6 +34,7 @@
   "Payable": "应付帐款",
   "Paid": "付费",
   "Lead sources": "主要来源",
+  "Sales": "销售",
   "Sales by customer": "客户销售",
   "Earnings": "收益"
 }

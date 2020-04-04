@@ -26,7 +26,6 @@
   "Leads (clicks)": "Leads (cliques)",
   "Leads (unique)": "Leads (exclusivos)",
   "Referrals": "Referências",
-  "Sales": "Vendas",
   "Conv rate": "Taxa conv",
   "New": "Novo",
   "Returning": "Retornando",
@@ -35,6 +34,7 @@
   "Payable": "A pagar",
   "Paid": "Pago",
   "Lead sources": "Fontes de chumbo",
+  "Sales": "Vendas",
   "Sales by customer": "Vendas por cliente",
   "Earnings": "Ganhos"
 }

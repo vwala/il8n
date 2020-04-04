@@ -26,7 +26,6 @@
   "Leads (clicks)": "",
   "Leads (unique)": "",
   "Referrals": "",
-  "Sales": "",
   "Conv rate": "",
   "New": "",
   "Returning": "",
@@ -35,6 +34,7 @@
   "Payable": "",
   "Paid": "",
   "Lead sources": "",
+  "Sales": "",
   "Sales by customer": "",
   "Earnings": ""
 }

@@ -26,7 +26,6 @@
   "Leads (clicks)": "Leads (Klicks)",
   "Leads (unique)": "Leads (einzigartig)",
   "Referrals": "Verweise",
-  "Sales": "Der Umsatz",
   "Conv rate": "Conv-Rate",
   "New": "Neu",
   "Returning": "Rückkehr",
@@ -35,6 +34,7 @@
   "Payable": "Zahlbar",
   "Paid": "Bezahlt",
   "Lead sources": "Lead-Quellen",
+  "Sales": "Der Umsatz",
   "Sales by customer": "Umsatz nach Kunden",
   "Earnings": "Verdienste"
 }

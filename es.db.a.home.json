@@ -26,7 +26,6 @@
   "Leads (clicks)": "Leads (clics)",
   "Leads (unique)": "Plomos (únicos)",
   "Referrals": "Referencias",
-  "Sales": "Ventas",
   "Conv rate": "Tasa de conv",
   "New": "Nuevo",
   "Returning": "Volviendo",
@@ -35,6 +34,7 @@
   "Payable": "Pagadero",
   "Paid": "Pagado",
   "Lead sources": "Fuentes de plomo",
+  "Sales": "Ventas",
   "Sales by customer": "Ventas por cliente",
   "Earnings": "Ganancias"
 }

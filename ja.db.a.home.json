@@ -26,7 +26,6 @@
   "Leads (clicks)": "見込み客（クリック）",
   "Leads (unique)": "リード（ユニーク）",
   "Referrals": "紹介",
-  "Sales": "売上高",
   "Conv rate": "コンバージョン率",
   "New": "新しい",
   "Returning": "戻る",
@@ -35,6 +34,7 @@
   "Payable": "買掛金",
   "Paid": "有料",
   "Lead sources": "リードソース",
+  "Sales": "売上高",
   "Sales by customer": "顧客別売上",
   "Earnings": "収益"
 }

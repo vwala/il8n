@@ -18,5 +18,7 @@
   "Owed": "",
   "Payable": "",
   "Commission can only be paid for orders that that are paid, fulfilled and at least {0} days old": "",
-  "Paid": ""
+  "Paid": "",
+  "Meta": "",
+  "Created At": ""
 }
