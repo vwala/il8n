@@ -1,4 +1,5 @@
 {
+  "Save": "保存",
   "Theme": "主题",
   "Logo": "商标",
   "The URL of your logo. Please enter the URL of your logo image (E.g. go to your shopify store homepage and then right-click on your logo image. Then copy the URL of the image to your clipboard and paste it here. The URL must be prefixed with": "您的徽标的网址。请输入您的徽标图片的网址（例如，转到您的shopify商店主页，然后右键单击您的徽标图片。然后将图片的网址复制到剪贴板并粘贴到此处。该网址必须带有前缀",
@@ -128,7 +129,5 @@
   "client Id": "客户ID",
   "How to pay commission": "如何支付佣金",
   "Secret": "秘密",
-  "secret": "秘密",
-  "Changes may take up to 5 minutes before taking effect": "更改可能需要5分钟才能生效",
-  "Save": "保存"
+  "secret": "秘密"
 }

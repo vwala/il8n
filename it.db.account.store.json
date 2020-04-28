@@ -1,4 +1,5 @@
 {
+  "Save": "Salva",
   "Theme": "Tema",
   "Logo": "Logo",
   "The URL of your logo. Please enter the URL of your logo image (E.g. go to your shopify store homepage and then right-click on your logo image. Then copy the URL of the image to your clipboard and paste it here. The URL must be prefixed with": "L'URL del tuo logo. Inserisci l'URL dell'immagine del tuo logo (es. Vai alla pagina iniziale del negozio shopify e quindi fai clic con il pulsante destro del mouse sull'immagine del logo. Quindi copia l'URL dell'immagine negli appunti e incollalo qui. L'URL deve essere preceduto da",
@@ -128,7 +129,5 @@
   "client Id": "Identificativo cliente",
   "How to pay commission": "Come pagare le commissioni",
   "Secret": "Segreto",
-  "secret": "segreto",
-  "Changes may take up to 5 minutes before taking effect": "Le modifiche possono richiedere fino a 5 minuti prima che abbiano effetto",
-  "Save": "Salva"
+  "secret": "segreto"
 }

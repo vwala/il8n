@@ -1,4 +1,5 @@
 {
+  "Save": "",
   "Theme": "",
   "Logo": "",
   "The URL of your logo. Please enter the URL of your logo image (E.g. go to your shopify store homepage and then right-click on your logo image. Then copy the URL of the image to your clipboard and paste it here. The URL must be prefixed with": "",
@@ -128,7 +129,5 @@
   "client Id": "",
   "How to pay commission": "",
   "Secret": "",
-  "secret": "",
-  "Changes may take up to 5 minutes before taking effect": "",
-  "Save": ""
+  "secret": ""
 }

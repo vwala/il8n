@@ -1,4 +1,5 @@
 {
+  "Save": "sparen",
   "Theme": "Thema",
   "Logo": "Logo",
   "The URL of your logo. Please enter the URL of your logo image (E.g. go to your shopify store homepage and then right-click on your logo image. Then copy the URL of the image to your clipboard and paste it here. The URL must be prefixed with": "Die URL Ihres Logos. Bitte geben Sie die URL Ihres Logo-Bildes ein (z. B. gehen Sie zu Ihrer Shopify Store-Startseite und klicken Sie dann mit der rechten Maustaste auf Ihr Logo-Bild. Kopieren Sie dann die URL des Bildes in Ihre Zwischenablage und fügen Sie es hier ein. Der URL muss vorangestellt werden",
@@ -128,7 +129,5 @@
   "client Id": "Kunden ID",
   "How to pay commission": "Wie bezahle ich eine Provision?",
   "Secret": "Geheimnis",
-  "secret": "Geheimnis",
-  "Changes may take up to 5 minutes before taking effect": "Änderungen können bis zu 5 Minuten dauern, bevor sie wirksam werden",
-  "Save": "sparen"
+  "secret": "Geheimnis"
 }
