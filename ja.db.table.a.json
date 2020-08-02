@@ -17,7 +17,7 @@
   "Earned": "稼いだ",
   "Owed": "所有している",
   "Payable": "買掛金",
-  "Commission can only be paid for orders that that are paid, fulfilled and at least {0} days old": "コミッションは、支払済み、履行済み、少なくとも{0}日経過した注文に対してのみ支払われます",
+  "Commission can only be paid for referral orders that are paid, fulfilled (delivered) and at least {0} days old": "コミッションは、支払われ、履行（配信）され、少なくとも{0}日以上の紹介注文に対してのみ支払うことができます",
   "Paid": "有料",
   "Meta": "メタ",
   "Created At": "作成日"

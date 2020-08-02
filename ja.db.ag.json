@@ -1,10 +1,10 @@
 {
-    "Saving": "保存中",
-    "Save": "セーブ",
-    "Ok": "OK",
-    "Cancel": "キャンセル",
-    "Name": "名前",
-    "The name of the group": "グループの名前",
-    "Invite URL": "招待URL",
-    "Default group?": "デフォルトグループ？"
+  "Saving": "保存中",
+  "Save": "セーブ",
+  "Ok": "OK",
+  "Cancel": "キャンセル",
+  "Name": "名前",
+  "The name of the group": "グループの名前",
+  "Invite URL": "招待URL",
+  "Default group?": "デフォルトグループ？"
 }

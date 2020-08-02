@@ -17,7 +17,7 @@
   "Earned": "Verdient",
   "Owed": "Geschuldet",
   "Payable": "Zahlbar",
-  "Commission can only be paid for orders that that are paid, fulfilled and at least {0} days old": "Die Provision kann nur für Bestellungen gezahlt werden, die bezahlt sind, erfüllt wurden und mindestens {0} Tage alt sind",
+  "Commission can only be paid for referral orders that are paid, fulfilled (delivered) and at least {0} days old": "Die Provision kann nur für Überweisungsaufträge gezahlt werden, die bezahlt, erfüllt (geliefert) und mindestens {0} Tage alt sind",
   "Paid": "Bezahlt",
   "Meta": "Meta",
   "Created At": "Hergestellt in"

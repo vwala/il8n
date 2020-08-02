@@ -17,7 +17,7 @@
   "Earned": "Guadagnato",
   "Owed": "dovuto",
   "Payable": "pagabile",
-  "Commission can only be paid for orders that that are paid, fulfilled and at least {0} days old": "La commissione può essere pagata solo per gli ordini che sono stati pagati, evasi e almeno {0} giorni",
+  "Commission can only be paid for referral orders that are paid, fulfilled (delivered) and at least {0} days old": "La Commissione può essere pagata solo per gli ordini di rinvio che sono stati pagati, evasi (consegnati) e con almeno {0} giorni",
   "Paid": "Pagato",
   "Meta": "Meta",
   "Created At": "Creato a"

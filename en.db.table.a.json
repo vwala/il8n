@@ -17,7 +17,7 @@
   "Earned": "",
   "Owed": "",
   "Payable": "",
-  "Commission can only be paid for orders that that are paid, fulfilled and at least {0} days old": "",
+  "Commission can only be paid for referral orders that are paid, fulfilled (delivered) and at least {0} days old": "",
   "Paid": "",
   "Meta": "",
   "Created At": ""
