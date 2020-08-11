@@ -1,10 +1,10 @@
 {
-  "orders": "ordini",
-  "leads": "conduce",
-  "codes": "codici",
-  "influencers": "influenzatori",
-  "payments": "pagamenti",
-  "You have no": "Tu non hai",
-  "Invite influencers to join your marketing program by sending them to your": "Invita gli influencer a unirsi al tuo programma di marketing inviandoli al tuo",
-  "To earn income as an influencer, you must share and promote your marketing discount code or link": "Per guadagnare entrate come influencer, è necessario condividere e promuovere il proprio codice di sconto marketing o collegamento"
+    "orders": "ordini",
+    "leads": "conduce",
+    "codes": "codici",
+    "influencers": "influenzatori",
+    "payments": "pagamenti",
+    "You have no": "Tu non hai",
+    "Invite XXs to join your marketing program with your": "Invita XX a partecipare al tuo programma di marketing con il tuo",
+    "To earn income, you must share and promote your marketing code or link": "Per guadagnare, devi condividere e promuovere il tuo codice o link di marketing"
 }
