@@ -1,5 +1,4 @@
 {
-  "Influencers": "Influencer",
   "Leads (clicks)": "Leads (Klicks)",
   "Leads (unique)": "Leads (einzigartig)",
   "Orders": "Aufträge",
@@ -17,17 +16,15 @@
   "Sales": "Der Umsatz",
   "Sales by customer": "Umsatz nach Kunden",
   "Commission": "Kommission",
-  "You have {0} influencers": "Sie haben {0} Influencer",
+  "You have {0} XXs": "Sie haben {0} XXs",
   "You've had {0} orders": "Sie haben {0} Aufträge erhalten",
   "You've earned": "Du hast verdient",
   "Commission Owed": "Kommission geschuldet",
-  "You owe {0} of commission to your influencers": "Sie schulden Ihren Influencern {0} eine Provision",
+  "You owe {0} commission to your XXs": "Sie schulden Ihren XXs {0} Provision",
   "Commission Paid": "Provision gezahlt",
-  "You've paid {0} of commission": "Sie haben {0} Provision bezahlt",
+  "You've paid {0} commission": "Sie haben {0} Provision bezahlt",
   "Reach": "Erreichen",
   "This is the minimum market reach of your store's influencer marketing program. It is the total number of people on social media that your referral marketers directly influence": "Dies ist die minimale Marktreichweite des Influencer-Marketingprogramms Ihres Shops. Es ist die Gesamtzahl der Personen in den sozialen Medien, auf die Ihre Werbe-Vermarkter direkten Einfluss haben",
-  "You have": "Du hast",
-  "influencers": "Influencer",
   "You've had": "Du hattest",
   "orders": "Aufträge"
 }

@@ -1,10 +1,10 @@
 {
-    "orders": "pedidos",
-    "leads": "lleva",
-    "codes": "códigos",
-    "influencers": "influencers",
-    "payments": "pagos",
-    "You have no": "No tienes",
-    "Invite XXs to join your marketing program with your": "Invite a XXs a unirse a su programa de marketing con su",
-    "To earn income, you must share and promote your marketing code or link": "Para obtener ingresos, debe compartir y promocionar su código o enlace de marketing"
+  "orders": "pedidos",
+  "leads": "lleva",
+  "codes": "códigos",
+  "influencers": "influencers",
+  "payments": "pagos",
+  "You have no": "No tienes",
+  "Invite XXs to join your marketing program with your XX sign-up page": "Invite a XXs a unirse a su programa de marketing con su página de registro XX",
+  "To earn income, you must share and promote your marketing code or link": "Para obtener ingresos, debe compartir y promocionar su código o enlace de marketing"
 }

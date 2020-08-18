@@ -1,5 +1,4 @@
 {
-  "Influencers": "インフルエンサー",
   "Leads (clicks)": "見込み客（クリック）",
   "Leads (unique)": "リード（ユニーク）",
   "Orders": "ご注文",
@@ -17,17 +16,15 @@
   "Sales": "売上高",
   "Sales by customer": "顧客別売上",
   "Commission": "手数料",
-  "You have {0} influencers": "あなたには{0}人のインフルエンサーがあります",
+  "You have {0} XXs": "XX個あります",
   "You've had {0} orders": "{0}の注文があります",
   "You've earned": "あなたは稼いだ",
   "Commission Owed": "委員会の所有",
-  "You owe {0} of commission to your influencers": "あなたはインフルエンサーに{0}のコミッションを借りています",
+  "You owe {0} commission to your XXs": "XXに{0}の手数料を支払う必要があります",
   "Commission Paid": "手数料を支払った",
-  "You've paid {0} of commission": "手数料{0}を支払いました",
+  "You've paid {0} commission": "{0}の手数料を支払いました",
   "Reach": "リーチ",
   "This is the minimum market reach of your store's influencer marketing program. It is the total number of people on social media that your referral marketers directly influence": "これはあなたの店のインフルエンサーマーケティングプログラムの最小マーケットリーチです。あなたの紹介マーケティング担当者が直接影響を与えるのはソーシャルメディア上の人々の総数です",
-  "You have": "あなたが持っている",
-  "influencers": "インフルエンサー",
   "You've had": "持っています",
   "orders": "注文"
 }

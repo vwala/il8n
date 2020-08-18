@@ -1,5 +1,4 @@
 {
-  "Influencers": "",
   "Leads (clicks)": "",
   "Leads (unique)": "",
   "Orders": "",
@@ -17,17 +16,15 @@
   "Sales": "",
   "Sales by customer": "",
   "Commission": "",
-  "You have {0} influencers": "",
+  "You have {0} XXs": "",
   "You've had {0} orders": "",
   "You've earned": "",
   "Commission Owed": "",
-  "You owe {0} of commission to your influencers": "",
+  "You owe {0} commission to your XXs": "",
   "Commission Paid": "",
-  "You've paid {0} of commission": "",
+  "You've paid {0} commission": "",
   "Reach": "",
   "This is the minimum market reach of your store's influencer marketing program. It is the total number of people on social media that your referral marketers directly influence": "",
-  "You have": "",
-  "influencers": "",
   "You've had": "",
   "orders": ""
 }
