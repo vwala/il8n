@@ -6,5 +6,6 @@
   "Name": "이름",
   "The name of the group": "그룹의 이름",
   "Invite URL": "URL 초대",
+  "You can create group specific invite links. When an XX signs up using a group invite link, they will be automatically assigned to that group": "그룹 별 초대 링크를 만들 수 있습니다. XX가 그룹 초대 링크를 사용하여 가입하면 자동으로 해당 그룹에 할당됩니다.",
   "Default group?": "기본 그룹?"
 }

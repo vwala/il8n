@@ -1,5 +1,5 @@
 {
-  "Use this form to cancel referral order commission. When you cancel a referral order's commission, the commission owed will be void and the influencer will be notified. It is valid to cancel order commission when the order was created fraudulently or; when you created the order yourself as a test": "Utilice este formulario para cancelar la comisión del pedido de referencia. Cuando cancela una comisión de orden de referencia, la comisión debida se anulará y se notificará al influencer. Es válido cancelar la comisión del pedido cuando el pedido se creó de manera fraudulenta o; cuando creaste el pedido como prueba",
+  "Use this form to cancel referral order commission. When you cancel a referral order's commission, the commission owed will be void and the XX will be notified. It is valid to cancel order commission when the order was created fraudulently or; when you created the order yourself as a test": "Utilice este formulario para cancelar la comisión de la orden de referencia. Cuando cancela la comisión de una orden de referencia, la comisión adeuda se anulará y se notificará al XX. Es válido cancelar la comisión del pedido cuando el pedido fue creado de manera fraudulenta o; cuando creaste el pedido tú mismo como prueba",
   "Cancel reason": "Cancelar razon",
   "Cancel commission?": "¿Cancelar comisión?",
   "Use this form to reverse the cancelled commission of the selected referral orders": "Utilice este formulario para revertir la comisión cancelada de las órdenes de referencia seleccionadas",
@@ -11,7 +11,7 @@
   "Filter": "Filtrar",
   "Cancel": "Cancelar",
   "Orders": "Pedidos",
-  "This page summarises the orders created by your influencers. It also shows how much commission is owed (or has been paid) per order. You can use this page to bulk pay your influencers": "Esta página resume las órdenes creadas por sus influencers. También muestra cuánta comisión se debe (o se ha pagado) por pedido. Puedes usar esta página para pagar en masa a tus influencers",
+  "This page summarises the orders created by your XXs. It also shows how much commission is owed (or has been paid) per order. You can use this page to bulk pay your XXs": "Esta página resume los pedidos creados por sus XX. También muestra cuánta comisión se debe (o se ha pagado) por pedido. Puede utilizar esta página para pagar al por mayor sus XX",
   "This page summarises the orders created by your account. It also shows your commission": "Esta página resume los pedidos creados por su cuenta. También muestra tu comisión.",
   "How referral orders work": "Cómo funcionan las órdenes de referencia",
   "How to pay commission": "Como pagar comisión",

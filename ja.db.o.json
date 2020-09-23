@@ -1,5 +1,5 @@
 {
-  "Use this form to cancel referral order commission. When you cancel a referral order's commission, the commission owed will be void and the influencer will be notified. It is valid to cancel order commission when the order was created fraudulently or; when you created the order yourself as a test": "紹介注文手数料をキャンセルするには、このフォームを使用してください。紹介注文のコミッションをキャンセルすると、未払いのコミッションは無効になり、インフルエンサーに通知されます。注文が不正に作成されたときに注文手数料をキャンセルすることは有効です。テストとして自分で注文を作成したとき",
+  "Use this form to cancel referral order commission. When you cancel a referral order's commission, the commission owed will be void and the XX will be notified. It is valid to cancel order commission when the order was created fraudulently or; when you created the order yourself as a test": "このフォームを使用して、紹介注文手数料をキャンセルします。紹介注文のコミッションをキャンセルすると、未払いのコミッションは無効になり、XXに通知されます。注文が不正に作成された場合や、注文手数料をキャンセルすることは有効です。テストとして自分で注文を作成したとき",
   "Cancel reason": "理由をキャンセル",
   "Cancel commission?": "手数料をキャンセルしますか？",
   "Use this form to reverse the cancelled commission of the selected referral orders": "このフォームを使用して、選択した紹介注文のキャンセルされた手数料を元に戻す",
@@ -11,7 +11,7 @@
   "Filter": "フィルタ",
   "Cancel": "キャンセル",
   "Orders": "ご注文",
-  "This page summarises the orders created by your influencers. It also shows how much commission is owed (or has been paid) per order. You can use this page to bulk pay your influencers": "このページはあなたのインフルエンサーによって作られた注文をまとめたものです。また、注文ごとに支払われる手数料の金額も示します。このページを使用して、インフルエンサーをまとめて支払うことができます。",
+  "This page summarises the orders created by your XXs. It also shows how much commission is owed (or has been paid) per order. You can use this page to bulk pay your XXs": "このページには、XXが作成した注文の概要が表示されます。また、注文ごとに支払われるコミッション（または支払われたコミッション）の額も表示されます。このページを使用して、XXを一括で支払うことができます",
   "This page summarises the orders created by your account. It also shows your commission": "このページはあなたのアカウントで作成された注文をまとめたものです。それはまたあなたの手数料を示しています",
   "How referral orders work": "紹介注文の仕組み",
   "How to pay commission": "手数料の支払い方法",

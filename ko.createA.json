@@ -44,7 +44,7 @@
   "Last name": "성",
   "Email": "이메일",
   "Enter your email": "이메일을 입력하십시오.",
-  "Enter your email address. If you have a PayPal account, you should use the email associated with that account, as this is how you will be paid commission": "당신의 이메일 주소를 입력 해주세요. PayPal 계좌를 가지고 계시다면 계좌와 관련된 이메일을 사용하셔야합니다.",
+  "Enter your email address. If you have a PayPal account, you should use the email associated with that account, as this is how you will be paid": "이메일 주소를 입력하세요. PayPal 계정이있는 경우 해당 계정과 연결된 이메일을 사용해야합니다. 이것이 지급 방식입니다.",
   "Confirm email": "이메일 확인",
   "Confirm your email": "이메일 확인",
   "Password": "암호",

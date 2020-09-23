@@ -44,7 +44,7 @@
   "Last name": "苗字",
   "Email": "Eメール",
   "Enter your email": "メールアドレスを入力",
-  "Enter your email address. If you have a PayPal account, you should use the email associated with that account, as this is how you will be paid commission": "メールアドレスを入力してください。 PayPalアカウントをお持ちの場合は、そのアカウントに関連付けられている電子メールを使用してください。",
+  "Enter your email address. If you have a PayPal account, you should use the email associated with that account, as this is how you will be paid": "メールアドレスを入力してください。 PayPalアカウントをお持ちの場合は、そのアカウントに関連付けられているメールを使用する必要があります。",
   "Confirm email": "Eメール確認",
   "Confirm your email": "メールを確認してください",
   "Password": "パスワード",

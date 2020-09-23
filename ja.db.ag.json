@@ -6,5 +6,6 @@
   "Name": "名前",
   "The name of the group": "グループの名前",
   "Invite URL": "招待URL",
+  "You can create group specific invite links. When an XX signs up using a group invite link, they will be automatically assigned to that group": "グループ固有の招待リンクを作成できます。 XXがグループ招待リンクを使用してサインアップすると、それらは自動的にそのグループに割り当てられます",
   "Default group?": "デフォルトグループ？"
 }

@@ -1,10 +1,10 @@
 {
-  "XX group": "Groupe XX",
   "XX": "XX",
+  "XX group": "Groupe XX",
   "Who does this rule apply to?": "À qui cette règle s'applique-t-elle?",
   "Applies to all XXs": "S'applique à tous les XX",
-  "This is the % of an order that the influencer will be paid in commission. I.e. an order of $100 (excluding taxes, shipping, discounts), with an influencer commission of 10%, will award the influencer $10 for their effort in generating the order": "C'est le% d'une commande que l'influenceur sera payé en commission. C'est à dire. une commande de 100 $ (hors taxes, frais de port, remises), avec une commission d'influenceur de 10%, accordera à l'influenceur 10 $ pour ses efforts dans la génération de la commande",
-  "This is a fixed amount that the influencer will be owed in commission for every order they generate for your store": "Il s'agit d'un montant fixe que l'influenceur devra en commission pour chaque commande qu'il génère pour votre magasin",
+  "This is the % of an order that the XX will be paid in commission. I.e. an order of $100 (excluding taxes, shipping, discounts), with an XX commission of 10%, will award the XX $10 for their effort in generating the order": "C'est le% d'une commande que le XX sera payé en commission. C'est à dire. une commande de 100 $ (hors taxes, frais d'expédition, rabais), avec une commission XX de 10%, attribuera les XX $ 10 pour leurs efforts dans la génération de la commande",
+  "This is a fixed amount that the XX will be owed in commission for every order they generate for your store": "Il s'agit d'un montant fixe que le XX sera dû en commission pour chaque commande qu'il génère pour votre boutique",
   "XX reward": "Récompense XX",
   "XX reward - 1st order": "Récompense XX - 1er ordre",
   "XX reward - Subsequent orders": "Récompense XX - Commandes ultérieures",

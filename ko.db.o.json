@@ -1,5 +1,5 @@
 {
-  "Use this form to cancel referral order commission. When you cancel a referral order's commission, the commission owed will be void and the influencer will be notified. It is valid to cancel order commission when the order was created fraudulently or; when you created the order yourself as a test": "추천서 주문 수수료를 취소하려면이 양식을 사용하십시오. 추천 주문의 수수료를 취소하면 수수료가 무효화되고 영향력이 통보됩니다. 주문이 사기로 생성 된 경우 주문 커미션을 취소하는 것이 유효합니다. 주문을 직접 테스트로 만들었을 때",
+  "Use this form to cancel referral order commission. When you cancel a referral order's commission, the commission owed will be void and the XX will be notified. It is valid to cancel order commission when the order was created fraudulently or; when you created the order yourself as a test": "추천 주문 수수료를 취소하려면이 양식을 사용하십시오. 추천 주문의 커미션을 취소하면 빚진 커미션이 무효화되고 XX에게 통지됩니다. 주문이 부정하게 생성 된 경우 주문 수수료를 취소하는 것이 유효합니다. 테스트로 직접 주문을 생성 한 경우",
   "Cancel reason": "이유 취소",
   "Cancel commission?": "커미션을 취소 하시겠습니까?",
   "Use this form to reverse the cancelled commission of the selected referral orders": "이 추천서 양식의 취소 된 수수료를 취소하려면이 양식을 사용하십시오.",
@@ -11,7 +11,7 @@
   "Filter": "필터",
   "Cancel": "취소",
   "Orders": "명령",
-  "This page summarises the orders created by your influencers. It also shows how much commission is owed (or has been paid) per order. You can use this page to bulk pay your influencers": "이 페이지에는 영향력있는 사람들이 작성한 주문이 요약되어 있습니다. 또한 주문 당 임원 수수료 (또는 지불 된 금액)를 보여줍니다. 이 페이지를 사용하여 영향력자를 대량 지불 할 수 있습니다",
+  "This page summarises the orders created by your XXs. It also shows how much commission is owed (or has been paid) per order. You can use this page to bulk pay your XXs": "이 페이지는 XX가 만든 주문을 요약합니다. 또한 주문 당 빚진 (또는 지불 된) 수수료도 표시됩니다. 이 페이지를 사용하여 XX를 일괄 결제 할 수 있습니다.",
   "This page summarises the orders created by your account. It also shows your commission": "이 페이지는 귀하의 계정으로 작성된 주문을 요약합니다. 또한 커미션을 보여줍니다.",
   "How referral orders work": "추천 명령의 작동 방식",
   "How to pay commission": "커미션 지급 방법",

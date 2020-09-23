@@ -1,10 +1,10 @@
 {
-  "XX group": "XX 그룹",
   "XX": "배반",
+  "XX group": "XX 그룹",
   "Who does this rule apply to?": "이 규칙은 누구에게 적용됩니까?",
   "Applies to all XXs": "모든 XX에 적용",
-  "This is the % of an order that the influencer will be paid in commission. I.e. an order of $100 (excluding taxes, shipping, discounts), with an influencer commission of 10%, will award the influencer $10 for their effort in generating the order": "이것은 인플 루 언서가 수수료로 지불 할 주문의 %입니다. 즉 인플 루 언서 커미션이 10 % 인 $ 100 (세금, 배송, 할인 제외) 주문은 인플 루 언서에게 주문 생성에 대한 노력으로 $ 10를 수여합니다.",
-  "This is a fixed amount that the influencer will be owed in commission for every order they generate for your store": "이 금액은 상점에 대해 생성 한 모든 주문에 대해 인플 루 언서가 수수료를 지불해야하는 고정 금액",
+  "This is the % of an order that the XX will be paid in commission. I.e. an order of $100 (excluding taxes, shipping, discounts), with an XX commission of 10%, will award the XX $10 for their effort in generating the order": "이것은 XX가 커미션으로 지불 될 주문의 %입니다. 즉 $ 100 주문 (세금, 배송비, 할인 제외), XX 수수료 10 %는 주문 생성에 대한 노력에 대해 XX $ 10을 수여합니다.",
+  "This is a fixed amount that the XX will be owed in commission for every order they generate for your store": "이것은 XX가 귀하의 상점에 대해 생성하는 모든 주문에 대해 수수료로 XX에게 지급되는 고정 금액입니다.",
   "XX reward": "XX 보상",
   "XX reward - 1st order": "XX 보상-1 차 주문",
   "XX reward - Subsequent orders": "XX 보상-후속 주문",

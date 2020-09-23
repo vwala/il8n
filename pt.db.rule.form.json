@@ -1,10 +1,10 @@
 {
-  "XX group": "XX grupo",
   "XX": "XX",
+  "XX group": "XX grupo",
   "Who does this rule apply to?": "A quem essa regra se aplica?",
   "Applies to all XXs": "Aplica-se a todos os XXs",
-  "This is the % of an order that the influencer will be paid in commission. I.e. an order of $100 (excluding taxes, shipping, discounts), with an influencer commission of 10%, will award the influencer $10 for their effort in generating the order": "Esse é o% de um pedido que o influenciador será pago em comissão. I.e. um pedido de US $ 100 (excluindo impostos, frete, descontos), com uma comissão de influenciador de 10%, concederá ao influenciador US $ 10 por seu esforço em gerar o pedido",
-  "This is a fixed amount that the influencer will be owed in commission for every order they generate for your store": "Esse é um valor fixo que o influenciador receberá em comissão por cada pedido que ele gerar para sua loja",
+  "This is the % of an order that the XX will be paid in commission. I.e. an order of $100 (excluding taxes, shipping, discounts), with an XX commission of 10%, will award the XX $10 for their effort in generating the order": "Esta é a% de um pedido que o XX será pago em comissão. Ou seja um pedido de $ 100 (excluindo impostos, frete, descontos), com uma comissão XX de 10%, premiará os XX $ 10 pelo esforço em gerar o pedido",
+  "This is a fixed amount that the XX will be owed in commission for every order they generate for your store": "Este é um valor fixo que será devido a XX em comissão para cada pedido gerado para sua loja",
   "XX reward": "XX recompensa",
   "XX reward - 1st order": "XX recompensa - 1ª ordem",
   "XX reward - Subsequent orders": "XX recompensa - pedidos subsequentes",

@@ -6,5 +6,6 @@
   "Name": "Nome",
   "The name of the group": "il nome del gruppo",
   "Invite URL": "Invita URL",
+  "You can create group specific invite links. When an XX signs up using a group invite link, they will be automatically assigned to that group": "Puoi creare link di invito specifici per il gruppo. Quando un XX si iscrive utilizzando un link di invito di gruppo, verrà automaticamente assegnato a quel gruppo",
   "Default group?": "Gruppo predefinito?"
 }

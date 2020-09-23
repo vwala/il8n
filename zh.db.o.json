@@ -1,5 +1,5 @@
 {
-  "Use this form to cancel referral order commission. When you cancel a referral order's commission, the commission owed will be void and the influencer will be notified. It is valid to cancel order commission when the order was created fraudulently or; when you created the order yourself as a test": "使用此表单取消推荐订单佣金。当您取消推荐订单的佣金时，所欠的佣金将无效，并且将通知影响者。订单以欺诈手段创建时取消订单佣金是有效的;当您自己创建订单作为测试时",
+  "Use this form to cancel referral order commission. When you cancel a referral order's commission, the commission owed will be void and the XX will be notified. It is valid to cancel order commission when the order was created fraudulently or; when you created the order yourself as a test": "使用此表格取消转介订单佣金。当您取消转介订单的佣金时，所欠佣金将作废，并将通知XX。在欺诈性创建订单时取消订单佣金是有效的；或者当您自己创建订单作为测试时",
   "Cancel reason": "取消原因",
   "Cancel commission?": "取消佣金？",
   "Use this form to reverse the cancelled commission of the selected referral orders": "使用此表单撤消所选推荐订单的已取消佣金",
@@ -11,7 +11,7 @@
   "Filter": "过滤",
   "Cancel": "取消",
   "Orders": "命令",
-  "This page summarises the orders created by your influencers. It also shows how much commission is owed (or has been paid) per order. You can use this page to bulk pay your influencers": "此页面总结了您的影响者创建的订单。它还显示每个订单欠多少佣金（或已支付）。您可以使用此页面批量支付您的影响者",
+  "This page summarises the orders created by your XXs. It also shows how much commission is owed (or has been paid) per order. You can use this page to bulk pay your XXs": "此页面总结了您的XX创建的订单。它还显示每笔订单欠（或已支付）多少佣金。您可以使用此页面批量支付您的XX",
   "This page summarises the orders created by your account. It also shows your commission": "此页面汇总了您帐户创建的订单。它还显示您的佣金",
   "How referral orders work": "推荐订单的工作原理",
   "How to pay commission": "如何支付佣金",

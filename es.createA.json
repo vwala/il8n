@@ -44,7 +44,7 @@
   "Last name": "Apellido",
   "Email": "Email",
   "Enter your email": "Introduce tu correo electrónico",
-  "Enter your email address. If you have a PayPal account, you should use the email associated with that account, as this is how you will be paid commission": "Ingrese su dirección de correo electrónico. Si tiene una cuenta de PayPal, debe usar el correo electrónico asociado con esa cuenta, ya que así es como se le pagará la comisión",
+  "Enter your email address. If you have a PayPal account, you should use the email associated with that account, as this is how you will be paid": "Ingrese su dirección de correo electrónico. Si tiene una cuenta PayPal, debe usar el correo electrónico asociado con esa cuenta, ya que así es como se le pagará.",
   "Confirm email": "Confirmar correo electrónico",
   "Confirm your email": "confirme su email",
   "Password": "Contraseña",

@@ -1,10 +1,10 @@
 {
-  "XX group": "XX组",
   "XX": "XX",
+  "XX group": "XX组",
   "Who does this rule apply to?": "此规则适用于谁？",
   "Applies to all XXs": "适用于所有XX",
-  "This is the % of an order that the influencer will be paid in commission. I.e. an order of $100 (excluding taxes, shipping, discounts), with an influencer commission of 10%, will award the influencer $10 for their effort in generating the order": "这是影响者将获得佣金的订单的百分比。即一笔$ 100的订单（不含税，运费，折扣），其中有影响力的佣金为10％，将向有影响力的人奖励10美元",
-  "This is a fixed amount that the influencer will be owed in commission for every order they generate for your store": "这是定额的金额，影响者将为他们为您的商店生成的每个订单支付佣金",
+  "This is the % of an order that the XX will be paid in commission. I.e. an order of $100 (excluding taxes, shipping, discounts), with an XX commission of 10%, will award the XX $10 for their effort in generating the order": "这是XX将以佣金形式支付的订单的百分比。即订单金额为$ 100（不含税，运费，折扣），且XX佣金为10％，将为XX奖励$ 10，以表彰他们为生成订单而付出的努力",
+  "This is a fixed amount that the XX will be owed in commission for every order they generate for your store": "这是固定金额，XX将为他们为您的商店生成的每个订单收取佣金",
   "XX reward": "XX奖励",
   "XX reward - 1st order": "XX奖励-一等奖",
   "XX reward - Subsequent orders": "XX奖励-后续订单",

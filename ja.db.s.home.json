@@ -24,7 +24,7 @@
   "Commission Paid": "手数料を支払った",
   "You've paid {0} commission": "{0}の手数料を支払いました",
   "Reach": "リーチ",
-  "This is the minimum market reach of your store's influencer marketing program. It is the total number of people on social media that your referral marketers directly influence": "これはあなたの店のインフルエンサーマーケティングプログラムの最小マーケットリーチです。あなたの紹介マーケティング担当者が直接影響を与えるのはソーシャルメディア上の人々の総数です",
+  "This is the minimum market reach of your store's XX marketing program. It is the total number of people on social media that your referral marketers directly influence": "これは、ストアのXXマーケティングプログラムの最小市場リーチです。紹介マーケティング担当者が直接影響を与えるソーシャルメディアの合計人数",
   "You've had": "持っています",
   "orders": "注文"
 }
