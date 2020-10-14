@@ -2,7 +2,7 @@
   "Log into PayPal and fix your account": "Inicie sesión en PayPal y arregle su cuenta",
   "Your vwa.la email and PayPal email must be the same": "Tu correo electrónico vwa.la y el correo electrónico de PayPal deben ser los mismos",
   "Your PayPal account is valid": "Tu cuenta de PayPal es válida",
-  "To be paid commission, you must log into your PayPal account and fix your PayPal account setup issues": "Para pagar una comisión, debe iniciar sesión en su cuenta de PayPal y solucionar los problemas de configuración de su cuenta de PayPal",
+  "To be paid commission, you must log into your PayPal account and fix your PayPal account setup issues. Your account must accept {0}": "Para recibir el pago de la comisión, debe iniciar sesión en su cuenta PayPal y solucionar los problemas de configuración de su cuenta PayPal. Su cuenta debe aceptar {0}",
   "To be paid commission, you must create a PayPal account. Your PayPal account and vwa.la account must use the same email address. You can also add your vwa.la email as a secondary email to an existing PayPal account": "Para ser pagado comisión, debe crear una cuenta de PayPal. Su cuenta de PayPal y vwa.la deben usar la misma dirección de correo electrónico. También puede agregar su correo electrónico vwa.la como un correo electrónico secundario a una cuenta de PayPal existente",
   "This XX can not be paid by PayPal until they resolve their PayPal account issues": "Este XX no puede ser pagado por PayPal hasta que resuelvan los problemas de su cuenta de PayPal",
   "Check": "Comprobar",

@@ -3,18 +3,5 @@
   "Store Settings": "Paramètres du magasin",
   "Billing Plan": "Plan de facturation",
   "My Bills": "Mes factures",
-  "My Account": "Mon compte",
-  "Payment setup": "Configuration du paiement",
-  "Important": "Important",
-  "will pay you using PayPal": "va vous payer en utilisant PayPal",
-  "PayPal payments will be made to your account's email address": "Les paiements PayPal seront effectués à l'adresse e-mail de votre compte.",
-  "You must have a PayPal account with this email address. Note: You can also add this email as a secondary email to your existing PayPal account. You can change your email in": "Vous devez avoir un compte PayPal avec cette adresse email. Remarque: vous pouvez également ajouter cet email en tant qu'e-mail secondaire à votre compte PayPal existant. Vous pouvez changer votre email en",
-  "my account > account settings": "mon compte> paramètres du compte",
-  "will pay you using bank transfer": "vous paiera par virement bancaire",
-  "will pay you using store credit": "vous paierez avec un crédit en magasin",
-  "Sales commission will only be paid to you for fulfilled, non-personal orders that are not cancelled or refunded. Furthermore, payments will not be deposited into your account until at least {0} days from the fulfilled order date. This is to avoid issues in the event of order changes, cancellations or fraud": "La commission de vente ne vous sera versée que pour les commandes non personnelles exécutées qui ne sont ni annulées ni remboursées. De plus, les paiements ne seront pas déposés sur votre compte avant au moins {0} jours à compter de la date de la commande. Cela permet d'éviter les problèmes en cas de modification de commande, d'annulation ou de fraude.",
-  "Need more info?": "Besoin de plus d'informations?",
-  "Please read our": "S'il vous plaît lire notre",
-  "how and when will I be paid?": "comment et quand serai-je payé?",
-  "guide": "guider"
+  "My Account": "Mon compte"
 }
