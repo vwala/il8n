@@ -19,7 +19,6 @@
   "Owed": "欠",
   "Commission owed to the XX that has not been paid": "欠XX的佣金尚未支付",
   "Payable": "应付帐款",
-  "Commission owed to the XX that can be paid now (based on your commission payment rules). I.e. Commission can only be paid for referral orders that are paid (by customer), fulfilled (delivered) and at least {0} days old. This prevents paying commission on new orders that may be changed or cancelled": "可以立即支付的XX欠的佣金（根据您的佣金支付规则）。即只能为已（由客户）支付，已履行（已交付）且至少存在{0}天的推荐订单支付佣金。这样可以防止对可能更改或取消的新订单支付佣金",
   "Paid": "付费",
   "Commission": "佣金",
   "Meta": "元",

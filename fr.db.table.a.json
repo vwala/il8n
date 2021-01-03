@@ -19,7 +19,6 @@
   "Owed": "Dû",
   "Commission owed to the XX that has not been paid": "Commission due au XX non payée",
   "Payable": "Payable",
-  "Commission owed to the XX that can be paid now (based on your commission payment rules). I.e. Commission can only be paid for referral orders that are paid (by customer), fulfilled (delivered) and at least {0} days old. This prevents paying commission on new orders that may be changed or cancelled": "Commission due au XX qui peut être payée maintenant (en fonction de vos règles de paiement de commission). C'est à dire. La commission ne peut être payée que pour les commandes de parrainage payées (par le client), exécutées (livrées) et datant d'au moins {0} jours. Cela évite de payer une commission sur les nouvelles commandes susceptibles d'être modifiées ou annulées",
   "Paid": "Payé",
   "Commission": "Commission",
   "Meta": "Meta",
