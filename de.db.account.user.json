@@ -28,7 +28,6 @@
   "Your preference may be ignored": "Ihre Präferenz kann ignoriert werden",
   "PayPal payments will be made to {0}": "PayPal-Zahlungen erfolgen an {0}.",
   "You must have a PayPal account with this email address. You can also add this email as a secondary email to your existing PayPal account": "Sie müssen über ein PayPal-Konto mit dieser E-Mail-Adresse verfügen. Sie können diese E-Mail auch als sekundäre E-Mail zu Ihrem bestehenden PayPal-Konto hinzufügen",
-  "Commission will only be paid for orders that are: non-personal, fulfilled and not cancelled or refunded. Furthermore, payments will not be deposited into your account until at least {0} days from the fulfilled order date. This is to avoid issues in the event of order changes, cancellations or fraud": "Die Provision wird nur für Bestellungen gezahlt, die nicht persönlich sind, erfüllt und nicht storniert oder erstattet werden. Darüber hinaus werden Zahlungen erst {0} Tage nach dem erfüllten Bestelldatum auf Ihrem Konto eingezahlt. Dies dient dazu, Probleme im Falle von Auftragsänderungen, Stornierungen oder Betrug zu vermeiden",
   "Need more info?": "Benötigen Sie weitere Informationen?",
   "Please read our documentation": "Bitte lesen Sie unsere Dokumentation",
   "Save": "sparen",
