@@ -14,7 +14,6 @@
   "When testing your changes with one of your referral links, if you don't see the correct page, it is likely because shopify is returning a cached version of the page to your IP address (temporarily). To force shopify to return the correct page to you, add ?test to the end of your referral link": "추천 링크 중 하나를 사용하여 변경 사항을 테스트 할 때 올바른 페이지가 표시되지 않으면 shopify가 캐시 된 버전의 페이지를 IP 주소 (임시)로 반환하기 때문일 수 있습니다. shopify가 올바른 페이지를 사용자에게 반환하도록하려면 추천 링크 끝에? test를 추가하십시오.",
   "XX link behaviour": "XX 링크 동작",
   "XX customer commission tracking": "XX 고객 수수료 추적",
-  "Create a rule that will describe the commission, customer discount and link behaviour rules for XXs in a specific group": "특정 그룹의 XX에 대한 커미션, 고객 할인 및 링크 동작 규칙을 설명하는 규칙을 작성하십시오.",
   "Create a rule that will periodically disable or delete inactive XXs": "비활성 XX를 주기적으로 비활성화하거나 삭제하는 규칙을 만듭니다.",
   "Create a rule that will reward an XX with lifetime commission when they bring a new customer to your store": "상점에 새로운 고객을 유치 할 때 평생 수수료로 XX에 보상하는 규칙을 작성하십시오.",
   "Inactive XX rule": "비활성 XX 규칙"

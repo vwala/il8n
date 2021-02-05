@@ -1,7 +1,7 @@
 {
   "Use this form to rename the XX's code and link. The XX's old link will be deleted in {0} days": "",
   "New code": "",
-  "Rename code?": "",
+  "Rename code": "",
   "Invalid code": "",
   "Changing code": "",
   "Status": "",
@@ -15,7 +15,6 @@
   "Approve": "",
   "Revoke": "",
   "Edit": "",
-  "Change code": "",
   "Change group": "",
   "Delete": "",
   "You can delete up to": "",

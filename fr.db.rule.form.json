@@ -14,7 +14,6 @@
   "When testing your changes with one of your referral links, if you don't see the correct page, it is likely because shopify is returning a cached version of the page to your IP address (temporarily). To force shopify to return the correct page to you, add ?test to the end of your referral link": "Lorsque vous testez vos modifications avec l'un de vos liens de parrainage, si vous ne voyez pas la bonne page, c'est probablement parce que Shopify renvoie (temporairement) une version mise en cache de la page à votre adresse IP. Pour forcer Shopify à vous renvoyer la page correcte, ajoutez? Test à la fin de votre lien de parrainage",
   "XX link behaviour": "Comportement des liens XX",
   "XX customer commission tracking": "XX suivi des commissions clients",
-  "Create a rule that will describe the commission, customer discount and link behaviour rules for XXs in a specific group": "Créer une règle qui décrira les règles de commission, de remise client et de comportement de lien pour les XX dans un groupe spécifique",
   "Create a rule that will periodically disable or delete inactive XXs": "Créer une règle qui désactivera ou supprimera périodiquement les XX inactifs",
   "Create a rule that will reward an XX with lifetime commission when they bring a new customer to your store": "Créez une règle qui récompensera un XX avec une commission à vie quand il amènera un nouveau client dans votre magasin",
   "Inactive XX rule": "Règle XX inactive"

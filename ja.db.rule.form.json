@@ -14,7 +14,6 @@
   "When testing your changes with one of your referral links, if you don't see the correct page, it is likely because shopify is returning a cached version of the page to your IP address (temporarily). To force shopify to return the correct page to you, add ?test to the end of your referral link": "紹介リンクの1つで変更をテストするときに正しいページが表示されない場合は、shopifyがキャッシュされたページのバージョンをIPアドレスに（一時的に）返している可能性があります。 Shopifyが正しいページを返すように強制するには、紹介リンクの最後に？testを追加します",
   "XX link behaviour": "XXリンクの動作",
   "XX customer commission tracking": "XX顧客手数料の追跡",
-  "Create a rule that will describe the commission, customer discount and link behaviour rules for XXs in a specific group": "特定のグループ内のXXのコミッション、顧客割引、およびリンク行動ルールを記述するルールを作成します",
   "Create a rule that will periodically disable or delete inactive XXs": "非アクティブなXXを定期的に無効化または削除するルールを作成します",
   "Create a rule that will reward an XX with lifetime commission when they bring a new customer to your store": "XXが新しい顧客をあなたの店に連れてきたときに生涯コミッションで報酬を与えるルールを作成します",
   "Inactive XX rule": "非アクティブXXルール"
