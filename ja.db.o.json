@@ -16,7 +16,6 @@
   "This page summarises the orders created by your account. It also shows your commission": "このページはあなたのアカウントで作成された注文をまとめたものです。それはまたあなたの手数料を示しています",
   "How referral orders work": "紹介注文の仕組み",
   "How to pay commission": "手数料の支払い方法",
-  "Re-sync the selected orders with Shopify (and if required PayPal)": "選択した注文をShopify（および必要に応じてPayPal）と再同期します",
   "Only {0} orders can be synced at a time": "一度に同期できるのは{0}件の注文のみです",
   "Re-sync orders": "注文を再同期する",
   "Cancel commission": "手数料を取り消す",
