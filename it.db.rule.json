@@ -1,6 +1,11 @@
 {
+  "Promotion policy": "Politica di promozione",
   "Use this form to define the XX policy of your store. Your policy allows you to set commission rules specific to each of your XX groups. Groups are a way for you to segment your XXs and reward them differently. You can create groups and; assign XXs to specific groups using the XXs page in the menu. When an XX signs up, they are automatically assigned to the default group": "Usa questo modulo per definire la XX policy del tuo negozio. La tua politica ti consente di impostare regole di commissione specifiche per ciascuno dei tuoi XX gruppi. I gruppi sono un modo per segmentare i tuoi XX e premiarli in modo diverso. Puoi creare gruppi e; assegnare XX a gruppi specifici utilizzando la pagina XX nel menu. Quando un XX si iscrive, viene automaticamente assegnato al gruppo predefinito",
   "Learn more": "Per saperne di più",
   "Save": "Salva",
-  "Test": "Test"
+  "Test": "Test",
+  "Rule": "Regola",
+  "Type": "genere",
+  "Status": "Stato",
+  "Edit": "modificare"
 }

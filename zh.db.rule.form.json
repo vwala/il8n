@@ -1,5 +1,4 @@
 {
-  "XX": "XX",
   "XX group": "XX组",
   "Who does this rule apply to?": "此规则适用于谁？",
   "Applies to all XXs": "适用于所有XX",
@@ -14,6 +13,7 @@
   "When testing your changes with one of your referral links, if you don't see the correct page, it is likely because shopify is returning a cached version of the page to your IP address (temporarily). To force shopify to return the correct page to you, add ?test to the end of your referral link": "使用引荐链接之一测试更改时，如果看不到正确的页面，则可能是因为shopify将页面的缓存版本（暂时）返回到了该页面的缓存版本。要强制shopify返回正确的页面给您，请在引荐链接的末尾添加？test",
   "XX link behaviour": "XX链接行为",
   "XX customer commission tracking": "XX客户佣金跟踪",
+  "XX": "XX",
   "Create a rule that will periodically disable or delete inactive XXs": "创建一个规则，该规则将定期禁用或删除不活动的XX",
   "Create a rule that will reward an XX with lifetime commission when they bring a new customer to your store": "创建一条规则，当他们将新客户带到您的商店时，将以终生佣金奖励XX",
   "Inactive XX rule": "无效的XX规则"

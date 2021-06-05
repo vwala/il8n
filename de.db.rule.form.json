@@ -1,5 +1,4 @@
 {
-  "XX": "XX",
   "XX group": "XX Gruppe",
   "Who does this rule apply to?": "Für wen gilt diese Regel?",
   "Applies to all XXs": "Gilt für alle XXs",
@@ -14,6 +13,7 @@
   "When testing your changes with one of your referral links, if you don't see the correct page, it is likely because shopify is returning a cached version of the page to your IP address (temporarily). To force shopify to return the correct page to you, add ?test to the end of your referral link": "Wenn Sie Ihre Änderungen mit einem Ihrer Verweislinks testen und die richtige Seite nicht sehen, ist es wahrscheinlich, dass shopify eine zwischengespeicherte Version der Seite (vorübergehend) an Ihre IP-Adresse zurücksendet. Fügen Sie am Ende Ihres Empfehlungslinks? Test hinzu, um shopify zu zwingen, die richtige Seite an Sie zurückzugeben",
   "XX link behaviour": "XX Linkverhalten",
   "XX customer commission tracking": "XX Nachverfolgung der Kundenprovision",
+  "XX": "XX",
   "Create a rule that will periodically disable or delete inactive XXs": "Erstellen Sie eine Regel, die inaktive XXs regelmäßig deaktiviert oder löscht",
   "Create a rule that will reward an XX with lifetime commission when they bring a new customer to your store": "Erstellen Sie eine Regel, mit der XX mit Provisionen auf Lebenszeit belohnt werden, wenn ein neuer Kunde in Ihr Geschäft kommt",
   "Inactive XX rule": "Inaktive XX-Regel"

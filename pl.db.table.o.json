@@ -1,0 +1,22 @@
+{
+  "Order": "Zamówienie",
+  "Id": "ID",
+  "Order Status": "Status zamówienia",
+  "Fulfillment Status": "Stan realizacji",
+  "Created At": "Utworzono w",
+  "Total": "Całkowity",
+  "Products": "Produkty",
+  "Customer": "Klient",
+  "Unknown": "Nieznany",
+  "Commission": "Komisja",
+  "Referral": "Polecenie",
+  "Status": "Status",
+  "Reason": "Powód",
+  "Transaction Id": "Identyfikator transakcji",
+  "Group Id": "Identyfikator grupy",
+  "Type": "Rodzaj",
+  "Paid Date": "Data płatności",
+  "Amount": "Ilość",
+  "Owed": "Należny",
+  "Paid": "Płatny"
+}
