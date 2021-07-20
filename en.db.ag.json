@@ -1,11 +1,15 @@
 {
   "Saving": "",
   "Save": "",
+  "Create group": "",
+  "Edit group": "",
   "Ok": "",
   "Cancel": "",
   "Name": "",
   "The name of the group": "",
   "Invite URL": "",
   "You can create group specific invite links. When an XX signs up using a group invite link, they will be automatically assigned to that group": "",
-  "Default group?": ""
+  "Preview": "",
+  "Default group?": "",
+  "Should new XXs be assigned to this group?": ""
 }

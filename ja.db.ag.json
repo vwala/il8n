@@ -1,11 +1,15 @@
 {
-  "Saving": "保存中",
-  "Save": "セーブ",
-  "Ok": "OK",
-  "Cancel": "キャンセル",
-  "Name": "名前",
-  "The name of the group": "グループの名前",
-  "Invite URL": "招待URL",
-  "You can create group specific invite links. When an XX signs up using a group invite link, they will be automatically assigned to that group": "グループ固有の招待リンクを作成できます。 XXがグループ招待リンクを使用してサインアップすると、それらは自動的にそのグループに割り当てられます",
-  "Default group?": "デフォルトグループ？"
+    "Saving": "保存中",
+    "Save": "セーブ",
+    "Create group": "グループを作る",
+    "Edit group": "グループを編集",
+    "Ok": "OK",
+    "Cancel": "キャンセル",
+    "Name": "名前",
+    "The name of the group": "グループの名前",
+    "Invite URL": "招待URL",
+    "You can create group specific invite links. When an XX signs up using a group invite link, they will be automatically assigned to that group": "グループ固有の招待リンクを作成できます。 XXがグループ招待リンクを使用してサインアップすると、それらは自動的にそのグループに割り当てられます",
+    "Preview": "プレビュー",
+    "Default group?": "デフォルトグループ？",
+    "Should new XXs be assigned to this group?": "このグループに新しいXXを割り当てる必要がありますか？"
 }
