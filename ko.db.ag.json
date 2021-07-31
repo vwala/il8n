@@ -1,15 +1,15 @@
 {
-    "Saving": "절약",
-    "Save": "저장",
-    "Create group": "그룹 생성",
-    "Edit group": "그룹 수정",
-    "Ok": "확인",
-    "Cancel": "취소",
-    "Name": "이름",
-    "The name of the group": "그룹의 이름",
-    "Invite URL": "URL 초대",
-    "You can create group specific invite links. When an XX signs up using a group invite link, they will be automatically assigned to that group": "그룹 별 초대 링크를 만들 수 있습니다. XX가 그룹 초대 링크를 사용하여 가입하면 자동으로 해당 그룹에 할당됩니다.",
-    "Preview": "시사",
-    "Default group?": "기본 그룹?",
-    "Should new XXs be assigned to this group?": "이 그룹에 새 XX를 할당해야 합니까?"
+  "Saving": "절약",
+  "Save": "저장",
+  "Create group": "그룹 생성",
+  "Edit group": "그룹 수정",
+  "Ok": "확인",
+  "Cancel": "취소",
+  "Name": "이름",
+  "The name of the group": "그룹의 이름",
+  "Invite URL": "URL 초대",
+  "You can create group specific invite links. When an XX signs up using a group invite link, they will be automatically assigned to that group": "그룹 별 초대 링크를 만들 수 있습니다. XX가 그룹 초대 링크를 사용하여 가입하면 자동으로 해당 그룹에 할당됩니다.",
+  "Preview": "시사",
+  "Default group?": "기본 그룹?",
+  "Should new XXs be assigned to this group?": "이 그룹에 새 XX를 할당해야 합니까?"
 }

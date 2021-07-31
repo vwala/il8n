@@ -1,15 +1,15 @@
 {
-    "Saving": "Ahorro",
-    "Save": "Salvar",
-    "Create group": "Crea un grupo",
-    "Edit group": "Editar grupo",
-    "Ok": "Okay",
-    "Cancel": "Cancelar",
-    "Name": "Nombre",
-    "The name of the group": "El nombre del grupo",
-    "Invite URL": "URL de invitación",
-    "You can create group specific invite links. When an XX signs up using a group invite link, they will be automatically assigned to that group": "Puede crear enlaces de invitación específicos para grupos. Cuando un XX se registra usando un enlace de invitación grupal, se le asignará automáticamente a ese grupo",
-    "Preview": "Avance",
-    "Default group?": "Grupo predeterminado?",
-    "Should new XXs be assigned to this group?": "¿Deberían asignarse nuevos XX a este grupo?"
+  "Saving": "Ahorro",
+  "Save": "Salvar",
+  "Create group": "Crea un grupo",
+  "Edit group": "Editar grupo",
+  "Ok": "Okay",
+  "Cancel": "Cancelar",
+  "Name": "Nombre",
+  "The name of the group": "El nombre del grupo",
+  "Invite URL": "URL de invitación",
+  "You can create group specific invite links. When an XX signs up using a group invite link, they will be automatically assigned to that group": "Puede crear enlaces de invitación específicos para grupos. Cuando un XX se registra usando un enlace de invitación grupal, se le asignará automáticamente a ese grupo",
+  "Preview": "Avance",
+  "Default group?": "Grupo predeterminado?",
+  "Should new XXs be assigned to this group?": "¿Deberían asignarse nuevos XX a este grupo?"
 }

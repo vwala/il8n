@@ -1,15 +1,15 @@
 {
-    "Saving": "保存",
-    "Save": "救",
-    "Create group": "创建组",
-    "Edit group": "编辑组",
-    "Ok": "好",
-    "Cancel": "取消",
-    "Name": "名称",
-    "The name of the group": "组名",
-    "Invite URL": "邀请网址",
-    "You can create group specific invite links. When an XX signs up using a group invite link, they will be automatically assigned to that group": "您可以创建特定于组的邀请链接。当XX使用群组邀请链接进行注册时，他们会自动分配给该群组",
-    "Preview": "预习",
-    "Default group?": "默认组？",
-    "Should new XXs be assigned to this group?": "新的 XX 应该分配给这个组吗？"
+  "Saving": "保存",
+  "Save": "救",
+  "Create group": "创建组",
+  "Edit group": "编辑组",
+  "Ok": "好",
+  "Cancel": "取消",
+  "Name": "名称",
+  "The name of the group": "组名",
+  "Invite URL": "邀请网址",
+  "You can create group specific invite links. When an XX signs up using a group invite link, they will be automatically assigned to that group": "您可以创建特定于组的邀请链接。当XX使用群组邀请链接进行注册时，他们会自动分配给该群组",
+  "Preview": "预习",
+  "Default group?": "默认组？",
+  "Should new XXs be assigned to this group?": "新的 XX 应该分配给这个组吗？"
 }
