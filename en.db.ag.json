@@ -2,7 +2,9 @@
   "Cancel": "",
   "Create group": "",
   "Default group?": "",
+  "Edit": "",
   "Edit group": "",
+  "Invite Link": "",
   "Invite URL": "",
   "Name": "",
   "Ok": "",
@@ -10,6 +12,9 @@
   "Save": "",
   "Saving": "",
   "Should new XXs be assigned to this group?": "",
+  "Status": "",
   "The name of the group": "",
-  "You can create group specific invite links. When an XX signs up using a group invite link, they will be automatically assigned to that group": ""
+  "You can create group specific invite links. When an XX signs up using a group invite link, they will be automatically assigned to that group": "",
+  "You can create group specific invite links. When an XX signs up using a group specific invite link, they will be automatically assigned to that group. To copy a link, click the copy icon below.": "",
+  "Your store can only have 1 default group. When an XX signs up using your default invite link, they are automatically added to the default group": ""
 }
