@@ -1,16 +1,16 @@
 {
-  "Use this form to rename your XX code and link. Please use only your new link/code. Your existing link and code will be deleted in {0} days": "",
-  "Use this form to rename the XX's code and link": "",
-  "New code": "",
-  "Rename code": "",
-  "Invalid code": "",
+  "Actions": "",
   "Changing code": "",
   "Codes": "",
-  "This page lists your XX's codes and their status. You can approve or revoke codes as required": "",
-  "This page lists your XX codes and their status": "",
-  "Rename": "",
+  "Invalid code": "",
+  "New code": "",
   "No matches found": "",
-  "Actions": "",
-  "Your code is": "",
-  "You have no codes": ""
+  "Rename": "",
+  "Rename code": "",
+  "This page lists your XX codes and their status": "",
+  "This page lists your XX's codes and their status. You can approve or revoke codes as required": "",
+  "Use this form to rename the XX's code and link": "",
+  "Use this form to rename your XX code and link. Please use only your new link/code. Your existing link and code will be deleted in {0} days": "",
+  "You have no codes": "",
+  "Your code is": ""
 }

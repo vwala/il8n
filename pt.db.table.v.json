@@ -1,10 +1,10 @@
 {
-  "Direct": "Direto",
   "Date": "Encontro",
-  "Unknown": "Desconhecido",
-  "Source": "Fonte",
-  "URL": "URL",
+  "Direct": "Direto",
   "IP": "IP",
   "Location": "Localização",
-  "Order": "Ordem"
+  "Order": "Ordem",
+  "Source": "Fonte",
+  "Unknown": "Desconhecido",
+  "URL": "URL"
 }

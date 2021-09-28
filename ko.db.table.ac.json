@@ -1,7 +1,7 @@
 {
   "Code": "암호",
-  "Link": "링크",
-  "Status": "지위",
+  "days": "일",
   "Expires in": "만료",
-  "days": "일"
+  "Link": "링크",
+  "Status": "지위"
 }

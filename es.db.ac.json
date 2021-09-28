@@ -1,16 +1,16 @@
 {
-  "Use this form to rename your XX code and link. Please use only your new link/code. Your existing link and code will be deleted in {0} days": "Utilice este formulario para cambiar el nombre de su código XX y enlace. Utilice solo su nuevo enlace / código. Su vínculo y código existentes se eliminarán en {0} días",
-  "Use this form to rename the XX's code and link": "Utilice este formulario para cambiar el nombre del código XX y el enlace",
-  "New code": "Nuevo código",
-  "Rename code": "Cambiar el nombre del código",
-  "Invalid code": "Codigo invalido",
+  "Actions": "Comportamiento",
   "Changing code": "Cambiando codigo",
   "Codes": "Codigos",
-  "This page lists your XX's codes and their status. You can approve or revoke codes as required": "Esta página enumera los códigos de XX y su estado. Puede aprobar o revocar códigos según sea necesario",
-  "This page lists your XX codes and their status": "Esta página enumera sus códigos XX y su estado",
-  "Rename": "Rebautizar",
+  "Invalid code": "Codigo invalido",
+  "New code": "Nuevo código",
   "No matches found": "No se encontraron coincidencias",
-  "Actions": "Comportamiento",
-  "Your code is": "Tu código es",
-  "You have no codes": "No tienes codigos"
+  "Rename": "Rebautizar",
+  "Rename code": "Cambiar el nombre del código",
+  "This page lists your XX codes and their status": "Esta página enumera sus códigos XX y su estado",
+  "This page lists your XX's codes and their status. You can approve or revoke codes as required": "Esta página enumera los códigos de XX y su estado. Puede aprobar o revocar códigos según sea necesario",
+  "Use this form to rename the XX's code and link": "Utilice este formulario para cambiar el nombre del código XX y el enlace",
+  "Use this form to rename your XX code and link. Please use only your new link/code. Your existing link and code will be deleted in {0} days": "Utilice este formulario para cambiar el nombre de su código XX y enlace. Utilice solo su nuevo enlace / código. Su vínculo y código existentes se eliminarán en {0} días",
+  "You have no codes": "No tienes codigos",
+  "Your code is": "Tu código es"
 }

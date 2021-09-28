@@ -1,10 +1,10 @@
 {
-  "orders": "ordres",
-  "leads": "pistes",
   "codes": "codes",
   "influencers": "influenceurs",
-  "payments": "Paiements",
-  "You have no": "Vous n'avez pas",
   "Invite XXs to join your marketing program with your XX sign-up page": "Invitez des XX à rejoindre votre programme de marketing avec votre page d'inscription XX",
-  "To earn income, you must share and promote your marketing code or link": "Pour gagner un revenu, vous devez partager et promouvoir votre code ou lien marketing"
+  "leads": "pistes",
+  "orders": "ordres",
+  "payments": "Paiements",
+  "To earn income, you must share and promote your marketing code or link": "Pour gagner un revenu, vous devez partager et promouvoir votre code ou lien marketing",
+  "You have no": "Vous n'avez pas"
 }

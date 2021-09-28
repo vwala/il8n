@@ -1,10 +1,10 @@
 {
-  "Direct": "直接",
   "Date": "日付",
-  "Unknown": "道の",
-  "Source": "ソース",
-  "URL": "URL",
+  "Direct": "直接",
   "IP": "IP",
   "Location": "ロケーション",
-  "Order": "注文"
+  "Order": "注文",
+  "Source": "ソース",
+  "Unknown": "道の",
+  "URL": "URL"
 }

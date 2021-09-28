@@ -1,16 +1,16 @@
 {
-  "Use this form to rename your XX code and link. Please use only your new link/code. Your existing link and code will be deleted in {0} days": "Użyj tego formularza, aby zmienić nazwę swojego kodu XX i łącza. Użyj tylko nowego linku / kodu. Twój istniejący link i kod zostaną usunięte za {0} dni",
-  "Use this form to rename the XX's code and link": "Użyj tego formularza, aby zmienić nazwę kodu i łącza XX",
-  "New code": "Nowy kod",
-  "Rename code": "Zmień nazwę kodu",
-  "Invalid code": "Zły kod",
+  "Actions": "działania",
   "Changing code": "Zmiana kodu",
   "Codes": "Kody",
-  "This page lists your XX's codes and their status. You can approve or revoke codes as required": "Ta strona zawiera listę kodów XX i ich status. W razie potrzeby możesz zatwierdzać lub unieważniać kody",
-  "This page lists your XX codes and their status": "Ta strona zawiera listę twoich kodów XX i ich statusu",
-  "Rename": "Przemianować",
+  "Invalid code": "Zły kod",
+  "New code": "Nowy kod",
   "No matches found": "Nie znaleziono żadnego meczu",
-  "Actions": "działania",
-  "Your code is": "Twój kod to",
-  "You have no codes": "Nie masz kodów"
+  "Rename": "Przemianować",
+  "Rename code": "Zmień nazwę kodu",
+  "This page lists your XX codes and their status": "Ta strona zawiera listę twoich kodów XX i ich statusu",
+  "This page lists your XX's codes and their status. You can approve or revoke codes as required": "Ta strona zawiera listę kodów XX i ich status. W razie potrzeby możesz zatwierdzać lub unieważniać kody",
+  "Use this form to rename the XX's code and link": "Użyj tego formularza, aby zmienić nazwę kodu i łącza XX",
+  "Use this form to rename your XX code and link. Please use only your new link/code. Your existing link and code will be deleted in {0} days": "Użyj tego formularza, aby zmienić nazwę swojego kodu XX i łącza. Użyj tylko nowego linku / kodu. Twój istniejący link i kod zostaną usunięte za {0} dni",
+  "You have no codes": "Nie masz kodów",
+  "Your code is": "Twój kod to"
 }

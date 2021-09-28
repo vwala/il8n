@@ -1,7 +1,7 @@
 {
   "Code": "Codice",
-  "Link": "collegamento",
-  "Status": "Stato",
+  "days": "giorni",
   "Expires in": "Scade tra",
-  "days": "giorni"
+  "Link": "collegamento",
+  "Status": "Stato"
 }

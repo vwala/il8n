@@ -1,16 +1,16 @@
 {
-  "Use this form to rename your XX code and link. Please use only your new link/code. Your existing link and code will be deleted in {0} days": "Verwenden Sie dieses Formular, um Ihren XX-Code und Link umzubenennen. Bitte verwenden Sie nur Ihren neuen Link / Code. Ihr vorhandener Link und Code wird in {0} Tagen gelöscht",
-  "Use this form to rename the XX's code and link": "Verwenden Sie dieses Formular, um den Code und den Link des XX umzubenennen",
-  "New code": "Neuer Code",
-  "Rename code": "Code umbenennen",
-  "Invalid code": "Ungültiger Code",
+  "Actions": "Aktionen",
   "Changing code": "Code ändern",
   "Codes": "Codes",
-  "This page lists your XX's codes and their status. You can approve or revoke codes as required": "Diese Seite listet die Codes Ihres XX und deren Status auf. Sie können Codes nach Bedarf genehmigen oder widerrufen",
-  "This page lists your XX codes and their status": "Diese Seite listet Ihre XX-Codes und deren Status auf",
-  "Rename": "Umbenennen",
+  "Invalid code": "Ungültiger Code",
+  "New code": "Neuer Code",
   "No matches found": "Keine Treffer gefunden",
-  "Actions": "Aktionen",
-  "Your code is": "Ihr Code ist",
-  "You have no codes": "Sie haben keine Codes"
+  "Rename": "Umbenennen",
+  "Rename code": "Code umbenennen",
+  "This page lists your XX codes and their status": "Diese Seite listet Ihre XX-Codes und deren Status auf",
+  "This page lists your XX's codes and their status. You can approve or revoke codes as required": "Diese Seite listet die Codes Ihres XX und deren Status auf. Sie können Codes nach Bedarf genehmigen oder widerrufen",
+  "Use this form to rename the XX's code and link": "Verwenden Sie dieses Formular, um den Code und den Link des XX umzubenennen",
+  "Use this form to rename your XX code and link. Please use only your new link/code. Your existing link and code will be deleted in {0} days": "Verwenden Sie dieses Formular, um Ihren XX-Code und Link umzubenennen. Bitte verwenden Sie nur Ihren neuen Link / Code. Ihr vorhandener Link und Code wird in {0} Tagen gelöscht",
+  "You have no codes": "Sie haben keine Codes",
+  "Your code is": "Ihr Code ist"
 }

@@ -1,10 +1,10 @@
 {
-  "Direct": "Direkte",
   "Date": "Datum",
-  "Unknown": "unbekannte",
-  "Source": "Quelle",
-  "URL": "URL",
+  "Direct": "Direkte",
   "IP": "IP",
   "Location": "Ort",
-  "Order": "Auftrag"
+  "Order": "Auftrag",
+  "Source": "Quelle",
+  "Unknown": "unbekannte",
+  "URL": "URL"
 }

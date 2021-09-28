@@ -1,13 +1,13 @@
 {
-  "Stats": "Statistiken",
+  "Disabled": "Deaktiviert",
+  "Find Stores": "Shops finden",
+  "Help": "Hilfe",
   "Home": "Zuhause",
-  "Promotion policy": "Promotion-Politik",
   "Leads": "Führt",
+  "My Account": "Mein Konto",
   "Orders": "Aufträge",
   "Payments": "Zahlungen",
-  "My Account": "Mein Konto",
-  "Help": "Hilfe",
-  "Find Stores": "Shops finden",
-  "Store": "Geschäft",
-  "Disabled": "Deaktiviert"
+  "Promotion policy": "Promotion-Politik",
+  "Stats": "Statistiken",
+  "Store": "Geschäft"
 }

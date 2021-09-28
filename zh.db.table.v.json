@@ -1,10 +1,10 @@
 {
-  "Direct": "直接",
   "Date": "日期",
-  "Unknown": "未知",
-  "Source": "资源",
-  "URL": "网址",
+  "Direct": "直接",
   "IP": "IP",
   "Location": "地点",
-  "Order": "订购"
+  "Order": "订购",
+  "Source": "资源",
+  "Unknown": "未知",
+  "URL": "网址"
 }

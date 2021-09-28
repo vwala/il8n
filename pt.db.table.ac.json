@@ -1,7 +1,7 @@
 {
   "Code": "Código",
-  "Link": "Ligação",
-  "Status": "Status",
+  "days": "dias",
   "Expires in": "Expira em",
-  "days": "dias"
+  "Link": "Ligação",
+  "Status": "Status"
 }

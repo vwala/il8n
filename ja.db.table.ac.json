@@ -1,7 +1,7 @@
 {
   "Code": "コード",
-  "Link": "リンク",
-  "Status": "状態",
+  "days": "日々",
   "Expires in": "有効期限",
-  "days": "日々"
+  "Link": "リンク",
+  "Status": "状態"
 }

@@ -1,10 +1,10 @@
 {
-  "Direct": "Bezpośredni",
   "Date": "Data",
-  "Unknown": "Nieznany",
-  "Source": "Źródło",
-  "URL": "URL",
+  "Direct": "Bezpośredni",
   "IP": "IP",
   "Location": "Lokalizacja",
-  "Order": "Zamówienie"
+  "Order": "Zamówienie",
+  "Source": "Źródło",
+  "Unknown": "Nieznany",
+  "URL": "URL"
 }

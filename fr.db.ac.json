@@ -1,16 +1,16 @@
 {
-  "Use this form to rename your XX code and link. Please use only your new link/code. Your existing link and code will be deleted in {0} days": "Utilisez ce formulaire pour renommer votre code XX et votre lien. Veuillez n'utiliser que votre nouveau lien / code. Votre lien et votre code existants seront supprimés dans {0} jours",
-  "Use this form to rename the XX's code and link": "Utilisez ce formulaire pour renommer le code et le lien XX",
-  "New code": "Nouveau code",
-  "Rename code": "Renommer le code",
-  "Invalid code": "Code invalide",
+  "Actions": "actes",
   "Changing code": "Changer le code",
   "Codes": "Codes",
-  "This page lists your XX's codes and their status. You can approve or revoke codes as required": "Cette page répertorie les codes de votre XX et leur statut. Vous pouvez approuver ou révoquer les codes selon les besoins",
-  "This page lists your XX codes and their status": "Cette page répertorie vos codes XX et leur statut",
-  "Rename": "Renommer",
+  "Invalid code": "Code invalide",
+  "New code": "Nouveau code",
   "No matches found": "Aucun résultat",
-  "Actions": "actes",
-  "Your code is": "Votre code est",
-  "You have no codes": "Tu n'as pas de codes"
+  "Rename": "Renommer",
+  "Rename code": "Renommer le code",
+  "This page lists your XX codes and their status": "Cette page répertorie vos codes XX et leur statut",
+  "This page lists your XX's codes and their status. You can approve or revoke codes as required": "Cette page répertorie les codes de votre XX et leur statut. Vous pouvez approuver ou révoquer les codes selon les besoins",
+  "Use this form to rename the XX's code and link": "Utilisez ce formulaire pour renommer le code et le lien XX",
+  "Use this form to rename your XX code and link. Please use only your new link/code. Your existing link and code will be deleted in {0} days": "Utilisez ce formulaire pour renommer votre code XX et votre lien. Veuillez n'utiliser que votre nouveau lien / code. Votre lien et votre code existants seront supprimés dans {0} jours",
+  "You have no codes": "Tu n'as pas de codes",
+  "Your code is": "Votre code est"
 }

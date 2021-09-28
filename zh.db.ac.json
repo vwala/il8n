@@ -1,16 +1,16 @@
 {
-  "Use this form to rename your XX code and link. Please use only your new link/code. Your existing link and code will be deleted in {0} days": "使用此表单来重命名您的XX代码和链接。请仅使用您的新链接/代码。您现有的链接和代码将在{0}天内删除",
-  "Use this form to rename the XX's code and link": "使用此表单重命名XX的代码并链接",
-  "New code": "新代码",
-  "Rename code": "重命名代码",
-  "Invalid code": "无效的代码",
+  "Actions": "操作",
   "Changing code": "改变代码",
   "Codes": "代码",
-  "This page lists your XX's codes and their status. You can approve or revoke codes as required": "此页面列出了您的XX的代码及其状态。您可以根据需要批准或撤销代码",
-  "This page lists your XX codes and their status": "此页面列出了您的XX码及其状态",
-  "Rename": "改名",
+  "Invalid code": "无效的代码",
+  "New code": "新代码",
   "No matches found": "找不到匹配项",
-  "Actions": "操作",
-  "Your code is": "您的代码是",
-  "You have no codes": "你没有代码"
+  "Rename": "改名",
+  "Rename code": "重命名代码",
+  "This page lists your XX codes and their status": "此页面列出了您的XX码及其状态",
+  "This page lists your XX's codes and their status. You can approve or revoke codes as required": "此页面列出了您的XX的代码及其状态。您可以根据需要批准或撤销代码",
+  "Use this form to rename the XX's code and link": "使用此表单重命名XX的代码并链接",
+  "Use this form to rename your XX code and link. Please use only your new link/code. Your existing link and code will be deleted in {0} days": "使用此表单来重命名您的XX代码和链接。请仅使用您的新链接/代码。您现有的链接和代码将在{0}天内删除",
+  "You have no codes": "你没有代码",
+  "Your code is": "您的代码是"
 }

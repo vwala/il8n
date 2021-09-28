@@ -1,10 +1,10 @@
 {
-  "orders": "命令",
-  "leads": "引线",
   "codes": "代码",
   "influencers": "影响力",
-  "payments": "支付",
-  "You have no": "你没有",
   "Invite XXs to join your marketing program with your XX sign-up page": "邀请XX的XX注册页面加入您的营销计划",
-  "To earn income, you must share and promote your marketing code or link": "为了赚钱，您必须分享和推广您的营销代码或链接"
+  "leads": "引线",
+  "orders": "命令",
+  "payments": "支付",
+  "To earn income, you must share and promote your marketing code or link": "为了赚钱，您必须分享和推广您的营销代码或链接",
+  "You have no": "你没有"
 }

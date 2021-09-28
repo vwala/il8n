@@ -1,16 +1,16 @@
 {
-  "Use this form to rename your XX code and link. Please use only your new link/code. Your existing link and code will be deleted in {0} days": "このフォームを使用して、XXコードとリンクの名前を変更します。新しいリンク/コードのみを使用してください。既存のリンクとコードは{0}日以内に削除されます",
-  "Use this form to rename the XX's code and link": "このフォームを使用して、XXのコードとリンクの名前を変更します",
-  "New code": "新しいコード",
-  "Rename code": "コードの名前を変更",
-  "Invalid code": "無効なコード",
+  "Actions": "行動",
   "Changing code": "コードを変更する",
   "Codes": "コード",
-  "This page lists your XX's codes and their status. You can approve or revoke codes as required": "このページには、XXのコードとそのステータスが一覧表示されます。必要に応じてコードを承認または取り消すことができます",
-  "This page lists your XX codes and their status": "このページには、XXコードとそのステータスが一覧表示されます",
-  "Rename": "リネーム",
+  "Invalid code": "無効なコード",
+  "New code": "新しいコード",
   "No matches found": "一致が見つかりません",
-  "Actions": "行動",
-  "Your code is": "あなたのコードは",
-  "You have no codes": "コードがありません"
+  "Rename": "リネーム",
+  "Rename code": "コードの名前を変更",
+  "This page lists your XX codes and their status": "このページには、XXコードとそのステータスが一覧表示されます",
+  "This page lists your XX's codes and their status. You can approve or revoke codes as required": "このページには、XXのコードとそのステータスが一覧表示されます。必要に応じてコードを承認または取り消すことができます",
+  "Use this form to rename the XX's code and link": "このフォームを使用して、XXのコードとリンクの名前を変更します",
+  "Use this form to rename your XX code and link. Please use only your new link/code. Your existing link and code will be deleted in {0} days": "このフォームを使用して、XXコードとリンクの名前を変更します。新しいリンク/コードのみを使用してください。既存のリンクとコードは{0}日以内に削除されます",
+  "You have no codes": "コードがありません",
+  "Your code is": "あなたのコードは"
 }

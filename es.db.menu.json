@@ -1,13 +1,13 @@
 {
-  "Stats": "Estadísticas",
+  "Disabled": "Discapacitado",
+  "Find Stores": "Encontrar tiendas",
+  "Help": "Ayuda",
   "Home": "Casa",
-  "Promotion policy": "Política de promoción",
   "Leads": "Lleva",
+  "My Account": "Mi cuenta",
   "Orders": "Pedidos",
   "Payments": "Pagos",
-  "My Account": "Mi cuenta",
-  "Help": "Ayuda",
-  "Find Stores": "Encontrar tiendas",
-  "Store": "Almacenar",
-  "Disabled": "Discapacitado"
+  "Promotion policy": "Política de promoción",
+  "Stats": "Estadísticas",
+  "Store": "Almacenar"
 }

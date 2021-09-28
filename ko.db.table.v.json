@@ -1,10 +1,10 @@
 {
-  "Direct": "곧장",
   "Date": "날짜",
-  "Unknown": "알 수 없는",
-  "Source": "출처",
-  "URL": "URL",
+  "Direct": "곧장",
   "IP": "IP",
   "Location": "위치",
-  "Order": "주문"
+  "Order": "주문",
+  "Source": "출처",
+  "Unknown": "알 수 없는",
+  "URL": "URL"
 }

@@ -1,16 +1,16 @@
 {
-  "Use this form to rename your XX code and link. Please use only your new link/code. Your existing link and code will be deleted in {0} days": "이 양식을 사용하여 XX 코드 및 링크의 이름을 변경하십시오. 새 링크 / 코드 만 사용하십시오. 기존 링크와 코드는 {0} 일 후에 삭제됩니다.",
-  "Use this form to rename the XX's code and link": "이 양식을 사용하여 XX의 코드 및 링크 이름을 변경하세요.",
-  "New code": "새 코드",
-  "Rename code": "코드 이름 변경",
-  "Invalid code": "유효하지 않은 코드",
+  "Actions": "행위",
   "Changing code": "코드 변경",
   "Codes": "코드",
-  "This page lists your XX's codes and their status. You can approve or revoke codes as required": "이 페이지에는 XX의 코드와 상태가 표시됩니다. 필요에 따라 코드를 승인하거나 취소 할 수 있습니다.",
-  "This page lists your XX codes and their status": "이 페이지에는 XX 코드 및 상태가 나열됩니다.",
-  "Rename": "이름 바꾸기",
+  "Invalid code": "유효하지 않은 코드",
+  "New code": "새 코드",
   "No matches found": "검색 결과가 없습니다",
-  "Actions": "행위",
-  "Your code is": "귀하의 코드는",
-  "You have no codes": "코드가 없습니다."
+  "Rename": "이름 바꾸기",
+  "Rename code": "코드 이름 변경",
+  "This page lists your XX codes and their status": "이 페이지에는 XX 코드 및 상태가 나열됩니다.",
+  "This page lists your XX's codes and their status. You can approve or revoke codes as required": "이 페이지에는 XX의 코드와 상태가 표시됩니다. 필요에 따라 코드를 승인하거나 취소 할 수 있습니다.",
+  "Use this form to rename the XX's code and link": "이 양식을 사용하여 XX의 코드 및 링크 이름을 변경하세요.",
+  "Use this form to rename your XX code and link. Please use only your new link/code. Your existing link and code will be deleted in {0} days": "이 양식을 사용하여 XX 코드 및 링크의 이름을 변경하십시오. 새 링크 / 코드 만 사용하십시오. 기존 링크와 코드는 {0} 일 후에 삭제됩니다.",
+  "You have no codes": "코드가 없습니다.",
+  "Your code is": "귀하의 코드는"
 }

@@ -1,7 +1,7 @@
 {
   "Code": "码",
-  "Link": "链接",
-  "Status": "状态",
+  "days": "天",
   "Expires in": "过期日期在",
-  "days": "天"
+  "Link": "链接",
+  "Status": "状态"
 }

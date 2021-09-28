@@ -1,7 +1,7 @@
 {
   "Code": "Kod",
-  "Link": "Połączyć",
-  "Status": "Status",
+  "days": "dni",
   "Expires in": "Termin upływa",
-  "days": "dni"
+  "Link": "Połączyć",
+  "Status": "Status"
 }

@@ -1,13 +1,13 @@
 {
-  "Stats": "统计",
+  "Disabled": "残",
+  "Find Stores": "寻找商店",
+  "Help": "救命",
   "Home": "家",
-  "Promotion policy": "促销政策",
   "Leads": "信息",
+  "My Account": "我的帐户",
   "Orders": "命令",
   "Payments": "支付",
-  "My Account": "我的帐户",
-  "Help": "救命",
-  "Find Stores": "寻找商店",
-  "Store": "商店",
-  "Disabled": "残"
+  "Promotion policy": "促销政策",
+  "Stats": "统计",
+  "Store": "商店"
 }
