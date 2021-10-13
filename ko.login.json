@@ -1,11 +1,10 @@
 {
-  "Email": "이메일",
-  "Forgot your password?": "비밀번호를 잊어 버렸습니까?",
-  "logging in": "로그인",
-  "Login": "로그인",
-  "Password": "암호",
-  "password reset": "비밀번호 초기화",
-  "Reset": "다시 놓기",
-  "resetting": "재설정 중",
-  "Your new password has been sent to your email": "새 비밀번호가 이메일로 전송되었습니다."
+    "Email": "이메일",
+    "Forgot your password?": "비밀번호를 잊어 버렸습니까?",
+    "logging in": "로그인",
+    "Login": "로그인",
+    "Password": "암호",
+    "Reset password": "암호를 재설정",
+    "resetting": "재설정 중",
+    "Your new password has been sent to your email": "새 비밀번호가 이메일로 전송되었습니다."
 }
