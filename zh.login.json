@@ -1,10 +1,8 @@
 {
-    "Email": "电子邮件",
-    "Forgot your password?": "忘记密码了吗？",
-    "logging in": "在登录",
-    "Login": "登录",
-    "Password": "密码",
-    "Reset password": "重设密码",
-    "resetting": "复位",
-    "Your new password has been sent to your email": "您的新密码已发送到您的电子邮箱"
+  "Email": "电子邮件",
+  "Forgot your password?": "忘记密码了吗？",
+  "Login": "登录",
+  "Password": "密码",
+  "Reset password": "重设密码",
+  "Your new password has been sent to your email": "您的新密码已发送到您的电子邮箱"
 }

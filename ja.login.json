@@ -1,10 +1,8 @@
 {
-    "Email": "Eメール",
-    "Forgot your password?": "パスワードをお忘れですか？",
-    "logging in": "ログイン",
-    "Login": "ログイン",
-    "Password": "パスワード",
-    "Reset password": "パスワードを再設定する",
-    "resetting": "リセット中",
-    "Your new password has been sent to your email": "新しいパスワードがあなたのEメールに送信されました"
+  "Email": "Eメール",
+  "Forgot your password?": "パスワードをお忘れですか？",
+  "Login": "ログイン",
+  "Password": "パスワード",
+  "Reset password": "パスワードを再設定する",
+  "Your new password has been sent to your email": "新しいパスワードがあなたのEメールに送信されました"
 }

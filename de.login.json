@@ -1,10 +1,8 @@
 {
-    "Email": "Email",
-    "Forgot your password?": "Haben Sie Ihr Passwort vergessen?",
-    "logging in": "Einloggen",
-    "Login": "Anmeldung",
-    "Password": "Passwort",
-    "Reset password": "Passwort zurücksetzen",
-    "resetting": "zurücksetzen",
-    "Your new password has been sent to your email": "Ihr neues Passwort wurde an Ihre E-Mail-Adresse gesendet"
+  "Email": "Email",
+  "Forgot your password?": "Haben Sie Ihr Passwort vergessen?",
+  "Login": "Anmeldung",
+  "Password": "Passwort",
+  "Reset password": "Passwort zurücksetzen",
+  "Your new password has been sent to your email": "Ihr neues Passwort wurde an Ihre E-Mail-Adresse gesendet"
 }

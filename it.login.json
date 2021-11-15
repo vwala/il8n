@@ -1,10 +1,8 @@
 {
-    "Email": "E-mail",
-    "Forgot your password?": "Hai dimenticato la password?",
-    "logging in": "entrando",
-    "Login": "Accesso",
-    "Password": "Parola d'ordine",
-    "Reset password": "Resetta la password",
-    "resetting": "reset",
-    "Your new password has been sent to your email": "La tua nuova password è stata inviata alla tua email"
+  "Email": "E-mail",
+  "Forgot your password?": "Hai dimenticato la password?",
+  "Login": "Accesso",
+  "Password": "Parola d'ordine",
+  "Reset password": "Resetta la password",
+  "Your new password has been sent to your email": "La tua nuova password è stata inviata alla tua email"
 }
