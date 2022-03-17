@@ -1,10 +1,7 @@
 {
     "Actions": "działania",
     "Amount": "Kwota",
-    "Amount of credit paid": "Kwota spłaconego kredytu",
-    "Cancel payment": "Anuluj płatność",
-    "Cancel payment?": "Anulować płatność?",
-    "Cancelling payment": "Anulowanie płatności",
+    "Amount of credit used by this order": "Kwota kredytu wykorzystana przez to zamówienie",
     "Code": "Kod",
     "Commission paid": "Prowizja zapłacona",
     "Credit used": "Wykorzystany kredyt",
@@ -13,6 +10,5 @@
     "No credit usage history": "Brak historii wykorzystania kredytu",
     "No matches found": "Nie znaleziono żadnego meczu",
     "Order No": "Nr zamówienia",
-    "selected": "wybrany",
-    "Use this form to cancel a commission payment. When you cancel a commission payment, the commission paid will be marked as unpaid.": "Użyj tego formularza, aby anulować wypłatę prowizji. Gdy anulujesz wypłatę prowizji, zapłacona prowizja zostanie oznaczona jako nieopłacona."
+    "selected": "wybrany"
 }

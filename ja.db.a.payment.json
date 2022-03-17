@@ -1,10 +1,7 @@
 {
     "Actions": "行動",
     "Amount": "額",
-    "Amount of credit paid": "支払われたクレジットの金額",
-    "Cancel payment": "支払いをキャンセルする",
-    "Cancel payment?": "支払いをキャンセルしますか？",
-    "Cancelling payment": "支払いのキャンセル",
+    "Amount of credit used by this order": "この注文で使用されたクレジットの金額",
     "Code": "コード",
     "Commission paid": "支払った手数料",
     "Credit used": "使用したクレジット",
@@ -13,6 +10,5 @@
     "No credit usage history": "クレジット使用履歴なし",
     "No matches found": "一致するものが見つかりません",
     "Order No": "注文番号",
-    "selected": "選択",
-    "Use this form to cancel a commission payment. When you cancel a commission payment, the commission paid will be marked as unpaid.": "コミッションの支払いをキャンセルするには、このフォームを使用してください。コミッションの支払いをキャンセルすると、支払われたコミッションは未払いとしてマークされます。"
+    "selected": "選択"
 }

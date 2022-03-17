@@ -1,10 +1,7 @@
 {
     "Actions": "Aktionen",
     "Amount": "Höhe",
-    "Amount of credit paid": "Höhe des gezahlten Kredits",
-    "Cancel payment": "Zahlung stornieren",
-    "Cancel payment?": "Zahlung stornieren?",
-    "Cancelling payment": "Zahlung stornieren",
+    "Amount of credit used by this order": "Betrag des Guthabens, das von dieser Bestellung verwendet wird",
     "Code": "Code",
     "Commission paid": "Provision gezahlt",
     "Credit used": "Kredit verwendet",
@@ -13,6 +10,5 @@
     "No credit usage history": "Keine Credit-Nutzungshistorie",
     "No matches found": "Keine Treffer gefunden",
     "Order No": "Best.-Nr",
-    "selected": "ausgewählt",
-    "Use this form to cancel a commission payment. When you cancel a commission payment, the commission paid will be marked as unpaid.": "Verwenden Sie dieses Formular, um eine Provisionszahlung zu stornieren. Wenn Sie eine Provisionszahlung stornieren, wird die gezahlte Provision als unbezahlt markiert."
+    "selected": "ausgewählt"
 }

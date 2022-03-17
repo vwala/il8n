@@ -1,10 +1,7 @@
 {
     "Actions": "Actions",
     "Amount": "Quantité",
-    "Amount of credit paid": "Montant du crédit payé",
-    "Cancel payment": "Annuler le paiement",
-    "Cancel payment?": "Annuler le paiement ?",
-    "Cancelling payment": "Annuler le paiement",
+    "Amount of credit used by this order": "Montant du crédit utilisé par cette commande",
     "Code": "Code",
     "Commission paid": "Commission versée",
     "Credit used": "Crédit utilisé",
@@ -13,6 +10,5 @@
     "No credit usage history": "Aucun historique d'utilisation du crédit",
     "No matches found": "Aucun résultat",
     "Order No": "N ° de commande",
-    "selected": "choisi",
-    "Use this form to cancel a commission payment. When you cancel a commission payment, the commission paid will be marked as unpaid.": "Utilisez ce formulaire pour annuler un paiement de commission. Lorsque vous annulez un paiement de commission, la commission payée sera marquée comme non payée."
+    "selected": "choisi"
 }

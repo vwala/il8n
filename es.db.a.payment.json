@@ -1,10 +1,7 @@
 {
     "Actions": "Comportamiento",
     "Amount": "Monto",
-    "Amount of credit paid": "monto del credito pagado",
-    "Cancel payment": "Cancelar el pago",
-    "Cancel payment?": "¿Cancelar el pago?",
-    "Cancelling payment": "Cancelar pago",
+    "Amount of credit used by this order": "Cantidad de crédito utilizada por este pedido",
     "Code": "Código",
     "Commission paid": "Comision pagada",
     "Credit used": "Crédito utilizado",
@@ -13,6 +10,5 @@
     "No credit usage history": "Sin historial de uso de crédito",
     "No matches found": "No se encontraron coincidencias",
     "Order No": "N º de pedido",
-    "selected": "seleccionado",
-    "Use this form to cancel a commission payment. When you cancel a commission payment, the commission paid will be marked as unpaid.": "Utilice este formulario para cancelar el pago de una comisión. Cuando cancela el pago de una comisión, la comisión pagada se marcará como no pagada."
+    "selected": "seleccionado"
 }
