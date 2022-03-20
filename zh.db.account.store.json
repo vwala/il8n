@@ -19,7 +19,7 @@
   "Brightness": "亮度",
   "Business Rules": "商业规则",
   "Can an XX earn commission from new customers only?": "XX只能从新客户那里赚取佣金吗？",
-  "Can an XX earn commission from their own personal orders? Default is false, which means our anti-fraud system will block personal orders. You should only enable this during testing": "XX可以从自己的个人订单中赚取佣金吗？默认值为false，这意味着我们的反欺诈系统将阻止个人订单。您应该仅在测试期间启用它",
+  "Can an XX earn commission from their own personal orders? Default is false, which means our anti-fraud system will block commission on personal orders. You should only enable this during testing": "",
   "Can XXs contact you via our in-app messaging solution? This feature is similiar to Facebook messenger": "XX可以通过我们的应用内消息传递解决方案与您联系吗？此功能类似于Facebook Messenger",
   "Can XXs see our in-app chat support (bottom right)? When enabled, our support team will support your XXs by answering their FAQ and handling their account/app specific issues. If their questions are specific to your store we will refer them to your customer support": "XX可以看到我们的应用内聊天支持（右下）吗？启用后，我们的支持团队将通过回答他们的FAQ并处理他们的帐户/应用特定问题来为您的XX提供支持。如果他们的问题是针对您的商店的，我们将把他们转给您的客户支持",
   "Can XXs see our in-app help menu?": "XX可以看到我们的应用内帮助菜单吗？",

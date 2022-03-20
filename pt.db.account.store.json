@@ -19,7 +19,7 @@
   "Brightness": "Brilho",
   "Business Rules": "Regras do negócio",
   "Can an XX earn commission from new customers only?": "Um XX pode ganhar comissão apenas de novos clientes?",
-  "Can an XX earn commission from their own personal orders? Default is false, which means our anti-fraud system will block personal orders. You should only enable this during testing": "Um XX pode ganhar comissão com seus próprios pedidos pessoais? O padrão é falso, o que significa que nosso sistema antifraude bloqueará pedidos pessoais. Você só deve habilitar isso durante o teste",
+  "Can an XX earn commission from their own personal orders? Default is false, which means our anti-fraud system will block commission on personal orders. You should only enable this during testing": "",
   "Can XXs contact you via our in-app messaging solution? This feature is similiar to Facebook messenger": "XXs pode contatá-lo através de nossa solução de mensagens no aplicativo? Este recurso é semelhante ao Facebook Messenger",
   "Can XXs see our in-app chat support (bottom right)? When enabled, our support team will support your XXs by answering their FAQ and handling their account/app specific issues. If their questions are specific to your store we will refer them to your customer support": "Os XXs podem ver nosso suporte de bate-papo no aplicativo (canto inferior direito)? Quando habilitado, nossa equipe de suporte apoiará seus XXs respondendo às perguntas frequentes e lidando com problemas específicos de conta / aplicativo. Se as perguntas deles forem específicas de sua loja, iremos encaminhá-los ao seu suporte ao cliente",
   "Can XXs see our in-app help menu?": "Os XXs podem ver nosso menu de ajuda no aplicativo?",

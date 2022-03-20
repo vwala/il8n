@@ -19,7 +19,7 @@
   "Brightness": "명도",
   "Business Rules": "비즈니스 규칙",
   "Can an XX earn commission from new customers only?": "XX는 신규 고객 에게서만 커미션을받을 수 있습니까?",
-  "Can an XX earn commission from their own personal orders? Default is false, which means our anti-fraud system will block personal orders. You should only enable this during testing": "XX는 개인 주문으로 커미션을받을 수 있습니까? 기본값은 거짓이며, 이는 사기 방지 시스템이 개인 주문을 차단 함을 의미합니다. 테스트 중에 만 활성화해야합니다.",
+  "Can an XX earn commission from their own personal orders? Default is false, which means our anti-fraud system will block commission on personal orders. You should only enable this during testing": "",
   "Can XXs contact you via our in-app messaging solution? This feature is similiar to Facebook messenger": "XXs가 인앱 메시징 솔루션을 통해 연락 할 수 있습니까? 이 기능은 Facebook 메신저와 유사합니다.",
   "Can XXs see our in-app chat support (bottom right)? When enabled, our support team will support your XXs by answering their FAQ and handling their account/app specific issues. If their questions are specific to your store we will refer them to your customer support": "XX는 인앱 채팅 지원을 볼 수 있습니까 (오른쪽 하단)? 활성화되면 지원팀이 FAQ에 답변하고 계정 / 앱 관련 문제를 처리하여 XX를 지원합니다. 해당 질문이 귀하의 매장과 관련된 경우 고객 지원팀에 문의합니다",
   "Can XXs see our in-app help menu?": "XX는 인앱 도움말 메뉴를 볼 수 있나요?",

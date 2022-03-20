@@ -19,7 +19,7 @@
   "Brightness": "輝度",
   "Business Rules": "ビジネスルール",
   "Can an XX earn commission from new customers only?": "XXは新しい顧客からのみコミッションを獲得できますか？",
-  "Can an XX earn commission from their own personal orders? Default is false, which means our anti-fraud system will block personal orders. You should only enable this during testing": "XXは自分の個人的な注文からコミッションを獲得できますか？デフォルトはfalseです。これは、不正防止システムが個人の注文をブロックすることを意味します。これはテスト中にのみ有効にする必要があります",
+  "Can an XX earn commission from their own personal orders? Default is false, which means our anti-fraud system will block commission on personal orders. You should only enable this during testing": "",
   "Can XXs contact you via our in-app messaging solution? This feature is similiar to Facebook messenger": "XXはアプリ内メッセージングソリューションを介して連絡できますか？この機能はFacebookメッセンジャーに似ています",
   "Can XXs see our in-app chat support (bottom right)? When enabled, our support team will support your XXs by answering their FAQ and handling their account/app specific issues. If their questions are specific to your store we will refer them to your customer support": "XXはアプリ内チャットサポート（右下）を見ることができますか？有効にすると、サポートチームがXXをサポートし、FAQに回答し、アカウント/アプリ固有の問題を処理します。彼らの質問があなたの店に固有である場合、私たちはそれらをあなたのカスタマーサポートに紹介します",
   "Can XXs see our in-app help menu?": "XXはアプリ内ヘルプメニューを表示できますか？",
