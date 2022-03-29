@@ -1,14 +1,13 @@
 {
-    "Actions": "Ações",
-    "Amount": "Montante",
-    "Amount of credit used by this order": "Valor do crédito usado por este pedido",
-    "Code": "Código",
-    "Commission paid": "Comissão paga",
-    "Credit used": "Crédito usado",
-    "Currency": "Moeda",
-    "Date": "Encontro",
-    "No credit usage history": "Sem histórico de uso de crédito",
-    "No matches found": "Nenhuma equivalência encontrada",
-    "Order No": "Nº do pedido",
-    "selected": "selecionado"
+  "Actions": "Ações",
+  "Amount": "Montante",
+  "Amount of credit used by this order": "Valor do crédito usado por este pedido",
+  "Code": "Código",
+  "Commission paid": "Comissão paga",
+  "Credit used": "Crédito usado",
+  "Currency": "Moeda",
+  "Date": "Encontro",
+  "No credit usage history": "Sem histórico de uso de crédito",
+  "No matches found": "Nenhuma equivalência encontrada",
+  "Order No": "Nº do pedido"
 }

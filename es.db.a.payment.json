@@ -1,14 +1,13 @@
 {
-    "Actions": "Comportamiento",
-    "Amount": "Monto",
-    "Amount of credit used by this order": "Cantidad de crédito utilizada por este pedido",
-    "Code": "Código",
-    "Commission paid": "Comision pagada",
-    "Credit used": "Crédito utilizado",
-    "Currency": "Divisa",
-    "Date": "Fecha",
-    "No credit usage history": "Sin historial de uso de crédito",
-    "No matches found": "No se encontraron coincidencias",
-    "Order No": "N º de pedido",
-    "selected": "seleccionado"
+  "Actions": "Comportamiento",
+  "Amount": "Monto",
+  "Amount of credit used by this order": "Cantidad de crédito utilizada por este pedido",
+  "Code": "Código",
+  "Commission paid": "Comision pagada",
+  "Credit used": "Crédito utilizado",
+  "Currency": "Divisa",
+  "Date": "Fecha",
+  "No credit usage history": "Sin historial de uso de crédito",
+  "No matches found": "No se encontraron coincidencias",
+  "Order No": "N º de pedido"
 }

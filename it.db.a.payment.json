@@ -1,14 +1,13 @@
 {
-    "Actions": "Azioni",
-    "Amount": "Quantità",
-    "Amount of credit used by this order": "Importo del credito utilizzato da questo ordine",
-    "Code": "Codice",
-    "Commission paid": "Commissione pagata",
-    "Credit used": "Credito utilizzato",
-    "Currency": "Moneta",
-    "Date": "Data",
-    "No credit usage history": "Nessuna cronologia di utilizzo del credito",
-    "No matches found": "Nessun risultato trovato",
-    "Order No": "Numero d'ordine",
-    "selected": "selezionato"
+  "Actions": "Azioni",
+  "Amount": "Quantità",
+  "Amount of credit used by this order": "Importo del credito utilizzato da questo ordine",
+  "Code": "Codice",
+  "Commission paid": "Commissione pagata",
+  "Credit used": "Credito utilizzato",
+  "Currency": "Moneta",
+  "Date": "Data",
+  "No credit usage history": "Nessuna cronologia di utilizzo del credito",
+  "No matches found": "Nessun risultato trovato",
+  "Order No": "Numero d'ordine"
 }

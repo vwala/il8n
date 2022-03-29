@@ -1,14 +1,13 @@
 {
-    "Actions": "Aktionen",
-    "Amount": "Höhe",
-    "Amount of credit used by this order": "Betrag des Guthabens, das von dieser Bestellung verwendet wird",
-    "Code": "Code",
-    "Commission paid": "Provision gezahlt",
-    "Credit used": "Kredit verwendet",
-    "Currency": "Währung",
-    "Date": "Datum",
-    "No credit usage history": "Keine Credit-Nutzungshistorie",
-    "No matches found": "Keine Treffer gefunden",
-    "Order No": "Best.-Nr",
-    "selected": "ausgewählt"
+  "Actions": "Aktionen",
+  "Amount": "Höhe",
+  "Amount of credit used by this order": "Betrag des Guthabens, das von dieser Bestellung verwendet wird",
+  "Code": "Code",
+  "Commission paid": "Provision gezahlt",
+  "Credit used": "Kredit verwendet",
+  "Currency": "Währung",
+  "Date": "Datum",
+  "No credit usage history": "Keine Credit-Nutzungshistorie",
+  "No matches found": "Keine Treffer gefunden",
+  "Order No": "Best.-Nr"
 }

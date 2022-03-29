@@ -1,14 +1,13 @@
 {
-    "Actions": "działania",
-    "Amount": "Kwota",
-    "Amount of credit used by this order": "Kwota kredytu wykorzystana przez to zamówienie",
-    "Code": "Kod",
-    "Commission paid": "Prowizja zapłacona",
-    "Credit used": "Wykorzystany kredyt",
-    "Currency": "Waluta",
-    "Date": "Data",
-    "No credit usage history": "Brak historii wykorzystania kredytu",
-    "No matches found": "Nie znaleziono żadnego meczu",
-    "Order No": "Nr zamówienia",
-    "selected": "wybrany"
+  "Actions": "działania",
+  "Amount": "Kwota",
+  "Amount of credit used by this order": "Kwota kredytu wykorzystana przez to zamówienie",
+  "Code": "Kod",
+  "Commission paid": "Prowizja zapłacona",
+  "Credit used": "Wykorzystany kredyt",
+  "Currency": "Waluta",
+  "Date": "Data",
+  "No credit usage history": "Brak historii wykorzystania kredytu",
+  "No matches found": "Nie znaleziono żadnego meczu",
+  "Order No": "Nr zamówienia"
 }
