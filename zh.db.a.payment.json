@@ -1,13 +1,13 @@
 {
-  "Actions": "行动",
-  "Amount": "数量",
-  "Amount of credit used by this order": "此订单使用的信用额度",
-  "Code": "代码",
-  "Commission paid": "已付佣金",
-  "Credit used": "使用的信用",
-  "Currency": "货币",
-  "Date": "日期",
-  "No credit usage history": "没有信用使用记录",
-  "No matches found": "未找到匹配项",
-  "Order No": "订单号"
+    "Actions": "行动",
+    "Amount": "数量",
+    "Amount of credit used by this order": "此订单使用的信用额度",
+    "Code": "代码",
+    "Commission paid": "已付佣金",
+    "Credit balance & usage": "信用余额和使用情况",
+    "Currency": "货币",
+    "Date": "日期",
+    "No credit usage history": "没有信用使用记录",
+    "No matches found": "未找到匹配项",
+    "Order No": "订单号"
 }

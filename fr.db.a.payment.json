@@ -1,13 +1,13 @@
 {
-  "Actions": "Actions",
-  "Amount": "Quantité",
-  "Amount of credit used by this order": "Montant du crédit utilisé par cette commande",
-  "Code": "Code",
-  "Commission paid": "Commission versée",
-  "Credit used": "Crédit utilisé",
-  "Currency": "Devise",
-  "Date": "Date",
-  "No credit usage history": "Aucun historique d'utilisation du crédit",
-  "No matches found": "Aucun résultat",
-  "Order No": "N ° de commande"
+    "Actions": "Actions",
+    "Amount": "Quantité",
+    "Amount of credit used by this order": "Montant du crédit utilisé par cette commande",
+    "Code": "Code",
+    "Commission paid": "Commission versée",
+    "Credit balance & usage": "Solde créditeur et utilisation",
+    "Currency": "Devise",
+    "Date": "Date",
+    "No credit usage history": "Aucun historique d'utilisation du crédit",
+    "No matches found": "Aucun résultat",
+    "Order No": "N ° de commande"
 }
