@@ -1,8 +1,8 @@
 {
-    "Email": "E-post",
-    "Forgot your password?": "Glemt passordet?",
-    "Login": "Logg Inn",
-    "Password": "Passord",
-    "Reset password": "tilbakestille passord",
-    "Your new password has been sent to your email": "Ditt nye passord er sendt til din e-post"
+  "Email": "E-post",
+  "Forgot your password?": "Glemt passordet?",
+  "Login": "Logg Inn",
+  "Password": "Passord",
+  "Reset password": "tilbakestille passord",
+  "Your new password has been sent to your email": "Ditt nye passord er sendt til din e-post"
 }

@@ -1,10 +1,10 @@
 {
-    "Date": "Dato",
-    "Direct": "Direkte",
-    "IP": "IP",
-    "Location": "plassering",
-    "Order": "Rekkefølge",
-    "Source": "Kilde",
-    "Unknown": "Ukjent",
-    "URL": "URL"
+  "Date": "Dato",
+  "Direct": "Direkte",
+  "IP": "IP",
+  "Location": "plassering",
+  "Order": "Rekkefølge",
+  "Source": "Kilde",
+  "Unknown": "Ukjent",
+  "URL": "URL"
 }
