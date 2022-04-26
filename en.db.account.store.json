@@ -19,7 +19,7 @@
   "Brightness": "",
   "Business Rules": "",
   "Can an XX earn commission from new customers only?": "",
-  "Can an XX earn commission from their own personal orders? Default is false, which means our anti-fraud system will block personal orders. You should only enable this during testing": "",
+  "Can an XX earn commission from their own personal orders? Default is false, which means our anti-fraud system will block commission on personal orders. You should only enable this during testing": "",
   "Can XXs contact you via our in-app messaging solution? This feature is similiar to Facebook messenger": "",
   "Can XXs see our in-app chat support (bottom right)? When enabled, our support team will support your XXs by answering their FAQ and handling their account/app specific issues. If their questions are specific to your store we will refer them to your customer support": "",
   "Can XXs see our in-app help menu?": "",
