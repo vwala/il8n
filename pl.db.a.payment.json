@@ -1,14 +1,14 @@
 {
-  "Actions": "działania",
-  "Amount": "Kwota",
-  "Amount of credit used by this order": "Kwota kredytu wykorzystana przez to zamówienie",
-  "Code": "Kod",
-  "Commission paid": "Prowizja zapłacona",
-  "Credit balance & usage": "Saldo kredytu i wykorzystanie",
-  "Currency": "Waluta",
-  "Date": "Data",
-  "No credit usage history": "Brak historii wykorzystania kredytu",
-  "No matches found": "Nie znaleziono żadnego meczu",
-  "Order No": "Nr zamówienia",
-  "Status": "Status"
+    "Actions": "działania",
+    "Amount": "Kwota",
+    "Amount of credit used by this order": "Kwota kredytu wykorzystana przez to zamówienie",
+    "Code": "Kod",
+    "Commission paid": "Prowizja zapłacona",
+    "Credit balance & usage": "Saldo kredytu i wykorzystanie",
+    "Currency": "Waluta",
+    "Date": "Data",
+    "Order No": "Nr zamówienia",
+    "Status": "Status",
+    "This XX has no credit usage history": "Ten XX nie ma historii wykorzystania kredytu",
+    "You have no credit usage history": "Nie masz historii wykorzystania kredytu"
 }
