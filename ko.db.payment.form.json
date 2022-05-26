@@ -1,5 +1,4 @@
 {
-  " or the `cancel payment` link within the PayPal window. If you cancel, do not attempt to complete the PayPal payment": "\u00a0PayPal 창에서 '지불 취소'링크를 클릭하십시오. 취소하는 경우 PayPal 지불을 완료하지 마십시오.",
   "All payments are made in your store's currency": "모든 지불은 상점 통화로 이루어집니다.",
   "All unpaid commission for {0}": "{0}의 모든 미 지불 수수료",
   "All unpaid commission for the selected XXs": "선택한 XX에 대한 모든 미지급 커미션",
@@ -39,6 +38,7 @@
   "Only pay XXs who belong to this group": "이 그룹에 속한 XX 명에게만 지불",
   "Only pay XXs who want to be paid by {0}?": "{0}에게 지급 받기를 원하는 XX에게만 지급 하시겠습니까?",
   "Opening PayPal": "PayPal 열기",
+  "or the `cancel payment` link within the PayPal window. If you cancel, do not attempt to complete the PayPal payment": "또는 PayPal 창 내 '결제 취소' 링크. 취소하는 경우 PayPal 결제를 완료하려고 시도하지 마십시오.",
   "Order dates": "주문 날짜",
   "Orders": "명령",
   "Orders must be fulfilled (delivered)?": "주문을 이행 (배송)해야합니까?",
@@ -76,6 +76,7 @@
   "You have chosen to pay {0} commission by store credit. We will automatically create a unique, single use, fixed amount discount code for each XX in this payment. For detailed instructions, please see the `how does this work` section below": "스토어 크레딧으로 {0} 수수료를 지불하도록 선택했습니다. 이 결제에서 각 XX에 대해 고유 한 일회용 고정 금액 할인 코드가 자동으로 생성됩니다. 자세한 지침은 아래 '작동 방식'섹션을 참조하세요.",
   "You have chosen to pay {0} commission to the following XXs using a method outside of vwa.la (e.g. manual bank transfer)": "vwa.la 외부의 방법 (예 : 수동 은행 송금)을 사용하여 다음 XX에 {0} 수수료를 지불하도록 선택했습니다.",
   "You have chosen to pay {0} commission to the following XXs using PayPal": "PayPal을 사용하여 다음 XX에 {0} 수수료를 지불하도록 선택했습니다.",
+  "You have claimed your commission as store credit": "커미션을 스토어 크레딧으로 청구했습니다.",
   "You must approve the PayPal transaction. We have opened the PayPal transaction in a new window (please ensure your browser allows this page to open). You must go to the new window and approve the payment": "PayPal 거래를 승인해야합니다. 새 창에서 PayPal 거래를 열었습니다 (브라우저에서이 페이지를 열 수 있도록하십시오). 새 창으로 가서 지불을 승인해야합니다.",
   "You will be given a credit code (a single use fixed amount discount code). This credit code can be used to spend your commission. To use the code, you must enter it at the store checkout during your next purchase. Any credit balance remaining after your next purchase will be usable in your future purchases": "크레딧 코드(1회용 고정 금액 할인 코드)가 제공됩니다. 이 크레딧 코드는 수수료를 지출하는 데 사용할 수 있습니다. 코드를 사용하려면 다음 구매 시 매장 계산대에서 코드를 입력해야 합니다. 다음 구매 후 남은 크레딧 잔액은 향후 구매에 사용할 수 있습니다.",
   "You'll use this list to pay each XX their commission, using a method outside of vwa.la. I.e. bank transfer, crypto etc.": "이 목록을 사용하여 vwa.la 외부의 방법을 사용하여 각 XX에 수수료를 지불합니다. 즉 은행 송금, 암호 화폐 등",

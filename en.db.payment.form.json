@@ -1,5 +1,4 @@
 {
-  " or the `cancel payment` link within the PayPal window. If you cancel, do not attempt to complete the PayPal payment": "",
   "All payments are made in your store's currency": "",
   "All unpaid commission for {0}": "",
   "All unpaid commission for the selected XXs": "",
@@ -39,6 +38,7 @@
   "Only pay XXs who belong to this group": "",
   "Only pay XXs who want to be paid by {0}?": "",
   "Opening PayPal": "",
+  "or the `cancel payment` link within the PayPal window. If you cancel, do not attempt to complete the PayPal payment": "",
   "Order dates": "",
   "Orders": "",
   "Orders must be fulfilled (delivered)?": "",
@@ -76,6 +76,7 @@
   "You have chosen to pay {0} commission by store credit. We will automatically create a unique, single use, fixed amount discount code for each XX in this payment. For detailed instructions, please see the `how does this work` section below": "",
   "You have chosen to pay {0} commission to the following XXs using a method outside of vwa.la (e.g. manual bank transfer)": "",
   "You have chosen to pay {0} commission to the following XXs using PayPal": "",
+  "You have claimed your commission as store credit": "",
   "You must approve the PayPal transaction. We have opened the PayPal transaction in a new window (please ensure your browser allows this page to open). You must go to the new window and approve the payment": "",
   "You will be given a credit code (a single use fixed amount discount code). This credit code can be used to spend your commission. To use the code, you must enter it at the store checkout during your next purchase. Any credit balance remaining after your next purchase will be usable in your future purchases": "",
   "You'll use this list to pay each XX their commission, using a method outside of vwa.la. I.e. bank transfer, crypto etc.": "",

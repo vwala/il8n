@@ -1,14 +1,14 @@
 {
-    "Actions": "Aktionen",
-    "Amount": "Höhe",
-    "Amount of credit used by this order": "Betrag des Guthabens, das von dieser Bestellung verwendet wird",
-    "Code": "Code",
-    "Commission paid": "Provision gezahlt",
-    "Credit balance & usage": "Guthaben & Nutzung",
-    "Currency": "Währung",
-    "Date": "Datum",
-    "Order No": "Best.-Nr",
-    "Status": "Status",
-    "This XX has no credit usage history": "Dieses XX hat keine Credit-Nutzungshistorie",
-    "You have no credit usage history": "Sie haben keine Credit-Nutzungshistorie"
+  "Actions": "Aktionen",
+  "Amount": "Höhe",
+  "Amount of credit used by this order": "Betrag des Guthabens, das von dieser Bestellung verwendet wird",
+  "Code": "Code",
+  "Commission paid": "Provision gezahlt",
+  "Credit balance & usage": "Guthaben & Nutzung",
+  "Currency": "Währung",
+  "Date": "Datum",
+  "Order No": "Best.-Nr",
+  "Status": "Status",
+  "This XX has no credit usage history": "Dieses XX hat keine Credit-Nutzungshistorie",
+  "You have no credit usage history": "Sie haben keine Credit-Nutzungshistorie"
 }

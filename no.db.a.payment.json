@@ -1,14 +1,14 @@
 {
-    "Actions": "Handlinger",
-    "Amount": "Beløp",
-    "Amount of credit used by this order": "Kredittbeløp brukt av denne bestillingen",
-    "Code": "Kode",
-    "Commission paid": "Provisjon utbetalt",
-    "Credit balance & usage": "Kredittsaldo og bruk",
-    "Currency": "Valuta",
-    "Date": "Dato",
-    "Order No": "Best.nr",
-    "Status": "Status",
-    "This XX has no credit usage history": "Denne XX har ingen kredittbrukshistorikk",
-    "You have no credit usage history": "Du har ingen kredittbrukshistorikk"
+  "Actions": "Handlinger",
+  "Amount": "Beløp",
+  "Amount of credit used by this order": "Kredittbeløp brukt av denne bestillingen",
+  "Code": "Kode",
+  "Commission paid": "Provisjon utbetalt",
+  "Credit balance & usage": "Kredittsaldo og bruk",
+  "Currency": "Valuta",
+  "Date": "Dato",
+  "Order No": "Best.nr",
+  "Status": "Status",
+  "This XX has no credit usage history": "Denne XX har ingen kredittbrukshistorikk",
+  "You have no credit usage history": "Du har ingen kredittbrukshistorikk"
 }

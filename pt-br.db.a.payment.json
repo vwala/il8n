@@ -1,14 +1,14 @@
 {
-    "Actions": "Ações",
-    "Amount": "Montante",
-    "Amount of credit used by this order": "Valor do crédito usado por este pedido",
-    "Code": "Código",
-    "Commission paid": "Comissão paga",
-    "Credit balance & usage": "Saldo de crédito e uso",
-    "Currency": "Moeda",
-    "Date": "Encontro",
-    "Order No": "Nº do pedido",
-    "Status": "Status",
-    "This XX has no credit usage history": "Este XX não tem histórico de uso de crédito",
-    "You have no credit usage history": "Você não tem histórico de uso de crédito"
+  "Actions": "Ações",
+  "Amount": "Montante",
+  "Amount of credit used by this order": "Valor do crédito usado por este pedido",
+  "Code": "Código",
+  "Commission paid": "Comissão paga",
+  "Credit balance & usage": "Saldo de crédito e uso",
+  "Currency": "Moeda",
+  "Date": "Encontro",
+  "Order No": "Nº do pedido",
+  "Status": "Status",
+  "This XX has no credit usage history": "Este XX não tem histórico de uso de crédito",
+  "You have no credit usage history": "Você não tem histórico de uso de crédito"
 }

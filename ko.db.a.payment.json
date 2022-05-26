@@ -1,14 +1,14 @@
 {
-    "Actions": "행위",
-    "Amount": "양",
-    "Amount of credit used by this order": "이 주문에서 사용한 크레딧 금액",
-    "Code": "암호",
-    "Commission paid": "수수료 지급",
-    "Credit balance & usage": "크레딧 잔액 및 사용량",
-    "Currency": "통화",
-    "Date": "날짜",
-    "Order No": "주문 번호",
-    "Status": "상태",
-    "This XX has no credit usage history": "이 XX에는 크레딧 사용 내역이 없습니다.",
-    "You have no credit usage history": "신용 사용 내역이 없습니다."
+  "Actions": "행위",
+  "Amount": "양",
+  "Amount of credit used by this order": "이 주문에서 사용한 크레딧 금액",
+  "Code": "암호",
+  "Commission paid": "수수료 지급",
+  "Credit balance & usage": "크레딧 잔액 및 사용량",
+  "Currency": "통화",
+  "Date": "날짜",
+  "Order No": "주문 번호",
+  "Status": "상태",
+  "This XX has no credit usage history": "이 XX에는 크레딧 사용 내역이 없습니다.",
+  "You have no credit usage history": "신용 사용 내역이 없습니다."
 }

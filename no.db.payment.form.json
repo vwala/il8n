@@ -1,5 +1,4 @@
 {
-  " or the `cancel payment` link within the PayPal window. If you cancel, do not attempt to complete the PayPal payment": " eller koblingen \"kanseller betaling\" i PayPal-vinduet. Hvis du avbryter, ikke prøv å fullføre PayPal-betalingen",
   "All payments are made in your store's currency": "Alle betalinger gjøres i butikkens valuta",
   "All unpaid commission for {0}": "All ubetalt provisjon for {0}",
   "All unpaid commission for the selected XXs": "All ubetalt provisjon for de valgte XXene",
@@ -39,6 +38,7 @@
   "Only pay XXs who belong to this group": "Betal kun XXer som tilhører denne gruppen",
   "Only pay XXs who want to be paid by {0}?": "Vil du bare betale XXer som ønsker å bli betalt av {0}?",
   "Opening PayPal": "Åpner PayPal",
+  "or the `cancel payment` link within the PayPal window. If you cancel, do not attempt to complete the PayPal payment": "eller koblingen \"kanseller betaling\" i PayPal-vinduet. Hvis du avbryter, ikke prøv å fullføre PayPal-betalingen",
   "Order dates": "Bestillingsdatoer",
   "Orders": "Ordrene",
   "Orders must be fulfilled (delivered)?": "Bestillinger må oppfylles (leveres)?",
@@ -76,6 +76,7 @@
   "You have chosen to pay {0} commission by store credit. We will automatically create a unique, single use, fixed amount discount code for each XX in this payment. For detailed instructions, please see the `how does this work` section below": "Du har valgt å betale {0} provisjon med butikkkreditt. Vi oppretter automatisk en unik rabattkode for engangsbruk for hver XX i denne betalingen. For detaljerte instruksjoner, se \"hvordan fungerer dette\"-delen nedenfor",
   "You have chosen to pay {0} commission to the following XXs using a method outside of vwa.la (e.g. manual bank transfer)": "Du har valgt å betale {0} provisjon til følgende XX-er ved å bruke en metode utenfor vwa.la (f.eks. manuell bankoverføring)",
   "You have chosen to pay {0} commission to the following XXs using PayPal": "Du har valgt å betale {0} provisjon til følgende XX-er med PayPal",
+  "You have claimed your commission as store credit": "Du har krevd provisjonen din som butikkkreditt",
   "You must approve the PayPal transaction. We have opened the PayPal transaction in a new window (please ensure your browser allows this page to open). You must go to the new window and approve the payment": "Du må godkjenne PayPal-transaksjonen. Vi har åpnet PayPal-transaksjonen i et nytt vindu (kontroller at nettleseren din tillater at denne siden åpnes). Du må gå til det nye vinduet og godkjenne betalingen",
   "You will be given a credit code (a single use fixed amount discount code). This credit code can be used to spend your commission. To use the code, you must enter it at the store checkout during your next purchase. Any credit balance remaining after your next purchase will be usable in your future purchases": "Du vil få en kredittkode (en engangskode med fast beløp). Denne kredittkoden kan brukes til å bruke provisjonen din. For å bruke koden må du skrive den inn i butikkkassen ved ditt neste kjøp. Eventuell kredittsaldo som gjenstår etter ditt neste kjøp vil kunne brukes i fremtidige kjøp",
   "You'll use this list to pay each XX their commission, using a method outside of vwa.la. I.e. bank transfer, crypto etc.": "Du bruker denne listen til å betale hver XX deres provisjon, ved å bruke en metode utenfor vwa.la. Dvs. bankoverføring, krypto etc.",

@@ -1,5 +1,4 @@
 {
-  " or the `cancel payment` link within the PayPal window. If you cancel, do not attempt to complete the PayPal payment": "\u00a0oder den Link \"Zahlung stornieren\" im PayPal-Fenster. Wenn Sie stornieren, versuchen Sie nicht, die PayPal-Zahlung abzuschließen",
   "All payments are made in your store's currency": "Alle Zahlungen erfolgen in der Währung Ihres Shops",
   "All unpaid commission for {0}": "Alle nicht bezahlten Provisionen für {0}",
   "All unpaid commission for the selected XXs": "Alle unbezahlten Provisionen für die ausgewählten XXs",
@@ -39,6 +38,7 @@
   "Only pay XXs who belong to this group": "Zahlen Sie nur XXs, die zu dieser Gruppe gehören",
   "Only pay XXs who want to be paid by {0}?": "Zahlen Sie nur XXs, die von {0} bezahlt werden möchten?",
   "Opening PayPal": "PayPal öffnen",
+  "or the `cancel payment` link within the PayPal window. If you cancel, do not attempt to complete the PayPal payment": "oder den Link \"Zahlung stornieren\" im PayPal-Fenster. Wenn Sie stornieren, versuchen Sie nicht, die PayPal-Zahlung abzuschließen",
   "Order dates": "Bestelldaten",
   "Orders": "Aufträge",
   "Orders must be fulfilled (delivered)?": "Bestellungen müssen erfüllt (geliefert) werden?",
@@ -76,6 +76,7 @@
   "You have chosen to pay {0} commission by store credit. We will automatically create a unique, single use, fixed amount discount code for each XX in this payment. For detailed instructions, please see the `how does this work` section below": "Sie haben sich entschieden, {0} Provision per Gutschrift zu zahlen. Wir erstellen automatisch einen eindeutigen Rabattcode für die einmalige Verwendung eines festen Betrags für jeden XX in dieser Zahlung. Detaillierte Anweisungen finden Sie im Abschnitt \"Wie funktioniert das?\" Unten",
   "You have chosen to pay {0} commission to the following XXs using a method outside of vwa.la (e.g. manual bank transfer)": "Sie haben sich dafür entschieden, {0} Provision an die folgenden XXs mit einer Methode außerhalb von vwa.la zu zahlen (z. B. manuelle Überweisung).",
   "You have chosen to pay {0} commission to the following XXs using PayPal": "Sie haben sich entschieden, mit PayPal eine Provision von {0} an die folgenden XXs zu zahlen",
+  "You have claimed your commission as store credit": "Sie haben Ihre Provision als Shop-Guthaben beansprucht",
   "You must approve the PayPal transaction. We have opened the PayPal transaction in a new window (please ensure your browser allows this page to open). You must go to the new window and approve the payment": "Sie müssen die PayPal-Transaktion genehmigen. Wir haben die PayPal-Transaktion in einem neuen Fenster geöffnet (bitte stellen Sie sicher, dass Ihr Browser das Öffnen dieser Seite zulässt). Sie müssen in das neue Fenster gehen und die Zahlung genehmigen",
   "You will be given a credit code (a single use fixed amount discount code). This credit code can be used to spend your commission. To use the code, you must enter it at the store checkout during your next purchase. Any credit balance remaining after your next purchase will be usable in your future purchases": "Sie erhalten einen Guthabencode (ein einmalig verwendbarer Rabattcode mit festem Betrag). Dieser Guthabencode kann verwendet werden, um Ihre Provision auszugeben. Um den Code zu verwenden, müssen Sie ihn bei Ihrem nächsten Einkauf an der Ladenkasse eingeben. Das nach Ihrem nächsten Einkauf verbleibende Guthaben kann für Ihre zukünftigen Einkäufe verwendet werden",
   "You'll use this list to pay each XX their commission, using a method outside of vwa.la. I.e. bank transfer, crypto etc.": "Sie werden diese Liste verwenden, um jedem XX seine Provision mit einer Methode außerhalb von vwa.la zu zahlen. Das heißt, Banküberweisung, Krypto usw.",

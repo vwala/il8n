@@ -1,5 +1,4 @@
 {
-  " or the `cancel payment` link within the PayPal window. If you cancel, do not attempt to complete the PayPal payment": "\u00a0またはPayPalウィンドウ内の「支払いのキャンセル」リンク。キャンセルした場合は、PayPalでの支払いを完了しないでください。",
   "All payments are made in your store's currency": "すべての支払いは店舗の通貨で行われます",
   "All unpaid commission for {0}": "{0}の全未払いコミッション",
   "All unpaid commission for the selected XXs": "選択したXXのすべての未払いコミッション",
@@ -39,6 +38,7 @@
   "Only pay XXs who belong to this group": "このグループに属するXXにのみ支払います",
   "Only pay XXs who want to be paid by {0}?": "{0}による支払いを希望するXXのみに支払いますか？",
   "Opening PayPal": "PayPalを開く",
+  "or the `cancel payment` link within the PayPal window. If you cancel, do not attempt to complete the PayPal payment": "またはPayPalウィンドウ内の「支払いのキャンセル」リンク。キャンセルする場合は、PayPalの支払いを完了しようとしないでください",
   "Order dates": "注文日",
   "Orders": "ご注文",
   "Orders must be fulfilled (delivered)?": "注文は履行（配達）する必要がありますか？",
@@ -76,6 +76,7 @@
   "You have chosen to pay {0} commission by store credit. We will automatically create a unique, single use, fixed amount discount code for each XX in this payment. For detailed instructions, please see the `how does this work` section below": "手数料をストアクレジットで支払うことを選択しました。この支払いの各XXに対して、一意で使い捨ての定額割引コードが自動的に作成されます。詳細な手順については、下記の「この仕組み」セクションをご覧ください",
   "You have chosen to pay {0} commission to the following XXs using a method outside of vwa.la (e.g. manual bank transfer)": "vwa.la以外の方法（手動銀行振込など）を使用して、次のXXに{0}手数料を支払うことを選択しました",
   "You have chosen to pay {0} commission to the following XXs using PayPal": "PayPalを使用して、次のXXに{0}コミッションを支払うことを選択しました",
+  "You have claimed your commission as store credit": "あなたはストアクレジットとしてあなたのコミッションを主張しました",
   "You must approve the PayPal transaction. We have opened the PayPal transaction in a new window (please ensure your browser allows this page to open). You must go to the new window and approve the payment": "あなたはPayPal取引を承認しなければなりません。 PayPal取引を新しいウィンドウで開きました（お使いのブラウザでこのページが開くことを確認してください）。新しいウィンドウに移動して支払いを承認する必要があります",
   "You will be given a credit code (a single use fixed amount discount code). This credit code can be used to spend your commission. To use the code, you must enter it at the store checkout during your next purchase. Any credit balance remaining after your next purchase will be usable in your future purchases": "クレジットコード（使い捨て定額割引コード）が付与されます。このクレジットコードは、コミッションの使用に使用できます。コードを使用するには、次回の購入時にストアのチェックアウト時にコードを入力する必要があります。次の購入後に残っているクレジット残高は、今後の購入で使用できます。",
   "You'll use this list to pay each XX their commission, using a method outside of vwa.la. I.e. bank transfer, crypto etc.": "このリストを使用して、vwa.la以外の方法を使用して、XXごとにコミッションを支払います。つまり銀行振込、暗号など",

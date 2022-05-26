@@ -1,14 +1,14 @@
 {
-    "Actions": "行動",
-    "Amount": "額",
-    "Amount of credit used by this order": "この注文で使用されたクレジットの金額",
-    "Code": "コード",
-    "Commission paid": "支払った手数料",
-    "Credit balance & usage": "クレジット残高と使用量",
-    "Currency": "通貨",
-    "Date": "日にち",
-    "Order No": "注文番号",
-    "Status": "スターテス",
-    "This XX has no credit usage history": "このXXにはクレジットの使用履歴がありません",
-    "You have no credit usage history": "クレジットの使用履歴がありません"
+  "Actions": "行動",
+  "Amount": "額",
+  "Amount of credit used by this order": "この注文で使用されたクレジットの金額",
+  "Code": "コード",
+  "Commission paid": "支払った手数料",
+  "Credit balance & usage": "クレジット残高と使用量",
+  "Currency": "通貨",
+  "Date": "日にち",
+  "Order No": "注文番号",
+  "Status": "スターテス",
+  "This XX has no credit usage history": "このXXにはクレジットの使用履歴がありません",
+  "You have no credit usage history": "クレジットの使用履歴がありません"
 }
