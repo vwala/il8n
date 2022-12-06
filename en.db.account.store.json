@@ -125,6 +125,7 @@
   "You must provide an API key. See ActiveCampaign's documentation for info": "",
   "You must provide an API key. See Klaviyo's documentation for info": "",
   "You must provide an API key. See Mailchimp's documentation for info": "",
+  "You must provide an API key. See Omnisend's documentation for info": "",
   "You must provide an API secret": "",
   "You must provide your ActiveCampaign account Id. See ActiveCampaign's documentation for info": ""
 }
