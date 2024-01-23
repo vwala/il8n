@@ -1,7 +1,8 @@
 {
-  "Code": "Code",
-  "days": "journées",
-  "Expires in": "Expire dans",
-  "Link": "Lien",
-  "Status": "Statut"
+    "Code": "Code",
+    "days": "journées",
+    "Expires in": "Expire dans",
+    "Link": "Lien",
+    "Policy": "Politique",
+    "Status": "Statut"
 }
