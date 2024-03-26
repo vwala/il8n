@@ -1,12 +1,13 @@
 {
-  "Disabled": "Desativado",
-  "Find Stores": "Encontrar lojas",
-  "Help": "Socorro",
-  "Home": "Casa",
-  "Leads": "Conduz",
-  "My Account": "Minha conta",
-  "Orders": "Encomendas",
-  "Payments": "Pagamentos",
-  "Stats": "Estatísticas",
-  "Store": "Loja"
+    "Disabled": "Desativado",
+    "Find Stores": "Encontrar lojas",
+    "Help": "Socorro",
+    "Home": "Casa",
+    "Leads": "Conduz",
+    "Mentions": "Menções",
+    "My Account": "Minha conta",
+    "Orders": "Encomendas",
+    "Payments": "Pagamentos",
+    "Stats": "Estatísticas",
+    "Store": "Loja"
 }

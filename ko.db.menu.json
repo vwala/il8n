@@ -1,12 +1,13 @@
 {
-  "Disabled": "장애인",
-  "Find Stores": "상점 찾기",
-  "Help": "도움",
-  "Home": "집",
-  "Leads": "리드",
-  "My Account": "내 계정",
-  "Orders": "명령",
-  "Payments": "지불",
-  "Stats": "통계",
-  "Store": "저장"
+    "Disabled": "장애인",
+    "Find Stores": "상점 찾기",
+    "Help": "도움",
+    "Home": "집",
+    "Leads": "리드",
+    "Mentions": "언급",
+    "My Account": "내 계정",
+    "Orders": "명령",
+    "Payments": "지불",
+    "Stats": "통계",
+    "Store": "저장"
 }

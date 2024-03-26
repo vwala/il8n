@@ -1,12 +1,13 @@
 {
-  "Disabled": "残",
-  "Find Stores": "寻找商店",
-  "Help": "救命",
-  "Home": "家",
-  "Leads": "信息",
-  "My Account": "我的帐户",
-  "Orders": "命令",
-  "Payments": "支付",
-  "Stats": "统计",
-  "Store": "商店"
+    "Disabled": "残",
+    "Find Stores": "寻找商店",
+    "Help": "救命",
+    "Home": "家",
+    "Leads": "信息",
+    "Mentions": "提及",
+    "My Account": "我的帐户",
+    "Orders": "命令",
+    "Payments": "支付",
+    "Stats": "统计",
+    "Store": "商店"
 }

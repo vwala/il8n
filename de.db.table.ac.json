@@ -1,8 +1,8 @@
 {
-    "Code": "Code",
-    "days": "Tage",
-    "Expires in": "Verfällt in",
-    "Link": "Verknüpfung",
-    "Policy": "Politik",
-    "Status": "Status"
+  "Code": "Code",
+  "days": "Tage",
+  "Expires in": "Verfällt in",
+  "Link": "Verknüpfung",
+  "Policy": "Politik",
+  "Status": "Status"
 }
