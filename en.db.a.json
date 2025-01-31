@@ -62,6 +62,8 @@
   "Status": "",
   "This table lists your XX code and link. For details on how to use your link or code and; create product or collection specific referral links, see the": "",
   "This XX can not be paid by PayPal until they resolve their PayPal account issues": "",
+  "To be paid commission, the XX must create a verified PayPal account. Their PayPal account and vwa.la account must use the same email address. They can also add their vwa.la email as a secondary email to an existing PayPal account. Their PayPal email must be verified and their account must accept {0}": "",
+  "To be paid commission, the XX must log into their PayPal account and fix their PayPal account setup issues. Their PayPal email must be verified and must accept {0}": "",
   "To be paid commission, you must create a verified PayPal account. Your PayPal account and vwa.la account must use the same email address. You can also add your vwa.la email as a secondary email to an existing PayPal account. Your PayPal email must be verified and your account must accept {0}": "",
   "To be paid commission, you must log into your PayPal account and fix your PayPal account setup issues. Your PayPal email must be verified and your account must accept {0}": "",
   "Use this form to rename the XX's code and link. The XX's old link will be deleted in {0} days": "",

@@ -1,14 +1,14 @@
 {
-    "Actions": "行动",
-    "Cancel": "取消",
-    "Filter": "筛选",
-    "Filter data": "过滤数据",
-    "Filter mentions by social media channel": "按社交媒体渠道过滤提及",
-    "Mention date": "提及日期",
-    "mentions": "提及",
-    "Mentions": "提及",
-    "No matches found": "未找到匹配项",
-    "selected": "已选择",
-    "Social media channel": "社交媒体渠道",
-    "This page summarises the mentions created by your XXs": "本页总结了您的 XX 创建的提及"
+  "Actions": "行动",
+  "Cancel": "取消",
+  "Filter": "筛选",
+  "Filter data": "过滤数据",
+  "Filter mentions by social media channel": "按社交媒体渠道过滤提及",
+  "Mention date": "提及日期",
+  "mentions": "提及",
+  "Mentions": "提及",
+  "No matches found": "未找到匹配项",
+  "selected": "已选择",
+  "Social media channel": "社交媒体渠道",
+  "This page summarises the mentions created by your XXs": "本页总结了您的 XX 创建的提及"
 }
